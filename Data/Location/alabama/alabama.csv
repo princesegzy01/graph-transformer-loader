@@ -1,0 +1,643 @@
+zip,latitude,longitude,city,stateCode,state,county,country,countryCodeIso2,countryCodeIso3,type
+35004,33.60277,-86.49615,Moody,AL,Alabama,St. Clair,United State Of America,US,USA,Location
+35005,33.59515,-87.00089,Adamsville,AL,Alabama,Jefferson,United State Of America,US,USA,Location
+35006,33.42921,-87.19707,Adger,AL,Alabama,Jefferson,United State Of America,US,USA,Location
+35007,33.21591,-86.79717,Alabaster,AL,Alabama,Shelby,United State Of America,US,USA,Location
+35010,32.91644,-85.9368,Alexander City,AL,Alabama,Tallapoosa,United State Of America,US,USA,Location
+35013,33.90169,-86.51787,Allgood,AL,Alabama,Blount,United State Of America,US,USA,Location
+35014,33.35989,-86.26918,Alpine,AL,Alabama,Talladega,United State Of America,US,USA,Location
+35016,34.32333,-86.50143,Arab,AL,Alabama,Marshall,United State Of America,US,USA,Location
+35019,34.29851,-86.63523,Baileyton,AL,Alabama,Cullman,United State Of America,US,USA,Location
+35020,33.40269,-86.95161,Bessemer,AL,Alabama,Jefferson,United State Of America,US,USA,Location
+35022,33.32251,-86.96577,Bessemer,AL,Alabama,Jefferson,United State Of America,US,USA,Location
+35023,33.46814,-87.09264,Bessemer,AL,Alabama,Jefferson,United State Of America,US,USA,Location
+35031,34.10155,-86.54751,Blountsville,AL,Alabama,Blount,United State Of America,US,USA,Location
+35032,33.26491,-86.33644,Bon Air,AL,Alabama,Talladega,United State Of America,US,USA,Location
+35033,33.94235,-87.02962,Bremen,AL,Alabama,Cullman,United State Of America,US,USA,Location
+35034,32.91192,-87.26985,Brent,AL,Alabama,Bibb,United State Of America,US,USA,Location
+35035,33.04272,-86.97382,Brierfield,AL,Alabama,Bibb,United State Of America,US,USA,Location
+35036,33.64396,-86.91957,Brookside,AL,Alabama,Jefferson,United State Of America,US,USA,Location
+35040,33.10387,-86.73003,Calera,AL,Alabama,Shelby,United State Of America,US,USA,Location
+35042,32.95457,-87.1148,Centreville,AL,Alabama,Bibb,United State Of America,US,USA,Location
+35043,33.31372,-86.65869,Chelsea,AL,Alabama,Shelby,United State Of America,US,USA,Location
+35044,33.2489,-86.37289,Childersburg,AL,Alabama,Talladega,United State Of America,US,USA,Location
+35045,32.80704,-86.67285,Clanton,AL,Alabama,Chilton,United State Of America,US,USA,Location
+35046,32.92285,-86.54504,Clanton,AL,Alabama,Chilton,United State Of America,US,USA,Location
+35049,33.95599,-86.59996,Cleveland,AL,Alabama,Blount,United State Of America,US,USA,Location
+35051,33.20547,-86.61971,Columbiana,AL,Alabama,Shelby,United State Of America,US,USA,Location
+35052,33.59174,-86.40848,Cook Springs,AL,Alabama,St. Clair,United State Of America,US,USA,Location
+35053,34.05329,-87.0679,Crane Hill,AL,Alabama,Cullman,United State Of America,US,USA,Location
+35054,33.50958,-86.32868,Cropwell,AL,Alabama,St. Clair,United State Of America,US,USA,Location
+35055,34.15399,-86.75906,Cullman,AL,Alabama,Cullman,United State Of America,US,USA,Location
+35057,34.1379,-86.96041,Cullman,AL,Alabama,Cullman,United State Of America,US,USA,Location
+35058,34.23134,-86.73788,Cullman,AL,Alabama,Cullman,United State Of America,US,USA,Location
+35060,33.5586,-86.94668,Docena,AL,Alabama,Jefferson,United State Of America,US,USA,Location
+35061,33.472,-86.95597,Dolomite,AL,Alabama,Jefferson,United State Of America,US,USA,Location
+35062,33.72907,-87.02034,Dora,AL,Alabama,Jefferson,United State Of America,US,USA,Location
+35063,33.81953,-87.00754,Empire,AL,Alabama,Walker,United State Of America,US,USA,Location
+35064,33.47608,-86.92025,Fairfield,AL,Alabama,Jefferson,United State Of America,US,USA,Location
+35068,33.60745,-86.83098,Fultondale,AL,Alabama,Jefferson,United State Of America,US,USA,Location
+35070,34.00977,-86.75419,Garden City,AL,Alabama,Cullman,United State Of America,US,USA,Location
+35071,33.70489,-86.84369,Gardendale,AL,Alabama,Jefferson,United State Of America,US,USA,Location
+35072,33.08977,-86.06138,Goodwater,AL,Alabama,Coosa,United State Of America,US,USA,Location
+35073,33.65405,-86.98034,Graysville,AL,Alabama,Jefferson,United State Of America,US,USA,Location
+35074,33.22242,-87.12425,Green Pond,AL,Alabama,Bibb,United State Of America,US,USA,Location
+35077,34.02052,-86.83216,Hanceville,AL,Alabama,Cullman,United State Of America,US,USA,Location
+35078,33.32338,-86.44236,Harpersville,AL,Alabama,Shelby,United State Of America,US,USA,Location
+35079,33.94055,-86.75551,Hayden,AL,Alabama,Blount,United State Of America,US,USA,Location
+35080,33.25974,-86.91282,Helena,AL,Alabama,Shelby,United State Of America,US,USA,Location
+35082,33.16334,-86.15567,Hollins,AL,Alabama,Clay,United State Of America,US,USA,Location
+35083,34.19826,-86.59912,Holly Pond,AL,Alabama,Cullman,United State Of America,US,USA,Location
+35085,32.97961,-86.73684,Jemison,AL,Alabama,Chilton,United State Of America,US,USA,Location
+35087,34.30644,-86.5844,Joppa,AL,Alabama,Cullman,United State Of America,US,USA,Location
+35089,32.93807,-86.08227,Kellyton,AL,Alabama,Coosa,United State Of America,US,USA,Location
+35091,33.77929,-86.7896,Kimberly,AL,Alabama,Jefferson,United State Of America,US,USA,Location
+35094,33.52089,-86.55997,Leeds,AL,Alabama,Shelby,United State Of America,US,USA,Location
+35096,33.62052,-86.10862,Lincoln,AL,Alabama,Talladega,United State Of America,US,USA,Location
+35097,33.89436,-86.6261,Locust Fork,AL,Alabama,Blount,United State Of America,US,USA,Location
+35098,34.12469,-87.0416,Logan,AL,Alabama,Cullman,United State Of America,US,USA,Location
+35111,33.28425,-87.09455,Mc Calla,AL,Alabama,Tuscaloosa,United State Of America,US,USA,Location
+35112,33.68963,-86.4708,Margaret,AL,Alabama,St. Clair,United State Of America,US,USA,Location
+35114,33.22306,-86.87245,Alabaster,AL,Alabama,Shelby,United State Of America,US,USA,Location
+35115,33.12003,-86.89578,Montevallo,AL,Alabama,Shelby,United State Of America,US,USA,Location
+35116,33.73135,-86.76641,Morris,AL,Alabama,Jefferson,United State Of America,US,USA,Location
+35117,33.67295,-86.8968,Mount Olive,AL,Alabama,Jefferson,United State Of America,US,USA,Location
+35118,33.5372,-87.05146,Mulga,AL,Alabama,Jefferson,United State Of America,US,USA,Location
+35119,33.64357,-86.77321,New Castle,AL,Alabama,Jefferson,United State Of America,US,USA,Location
+35120,33.66652,-86.42306,Odenville,AL,Alabama,St. Clair,United State Of America,US,USA,Location
+35121,33.94125,-86.45527,Oneonta,AL,Alabama,Blount,United State Of America,US,USA,Location
+35124,33.31347,-86.76317,Pelham,AL,Alabama,Shelby,United State Of America,US,USA,Location
+35125,33.62576,-86.29432,Pell City,AL,Alabama,St. Clair,United State Of America,US,USA,Location
+35126,33.73147,-86.65417,Pinson,AL,Alabama,Jefferson,United State Of America,US,USA,Location
+35127,33.49167,-86.97639,Pleasant Grove,AL,Alabama,Jefferson,United State Of America,US,USA,Location
+35128,33.54888,-86.3428,Pell City,AL,Alabama,St. Clair,United State Of America,US,USA,Location
+35130,33.6337,-87.13403,Quinton,AL,Alabama,Walker,United State Of America,US,USA,Location
+35131,33.73377,-86.18611,Ragland,AL,Alabama,St. Clair,United State Of America,US,USA,Location
+35133,33.81871,-86.59957,Remlap,AL,Alabama,Blount,United State Of America,US,USA,Location
+35135,33.61658,-86.19961,Riverside,AL,Alabama,St. Clair,United State Of America,US,USA,Location
+35136,32.87839,-86.2957,Rockford,AL,Alabama,Coosa,United State Of America,US,USA,Location
+35139,33.71143,-86.97048,Sayre,AL,Alabama,Jefferson,United State Of America,US,USA,Location
+35143,33.08733,-86.55295,Shelby,AL,Alabama,Shelby,United State Of America,US,USA,Location
+35146,33.79557,-86.43192,Springville,AL,Alabama,St. Clair,United State Of America,US,USA,Location
+35147,33.41511,-86.52928,Sterrett,AL,Alabama,Shelby,United State Of America,US,USA,Location
+35148,33.75635,-87.04551,Sumiton,AL,Alabama,Walker,United State Of America,US,USA,Location
+35149,33.24802,-86.1969,Sycamore,AL,Alabama,Talladega,United State Of America,US,USA,Location
+35150,33.18527,-86.2417,Sylacauga,AL,Alabama,Talladega,United State Of America,US,USA,Location
+35151,33.09298,-86.37207,Sylacauga,AL,Alabama,Talladega,United State Of America,US,USA,Location
+35160,33.37483,-86.08659,Talladega,AL,Alabama,Talladega,United State Of America,US,USA,Location
+35171,32.88214,-86.73965,Thorsby,AL,Alabama,Chilton,United State Of America,US,USA,Location
+35172,33.84469,-86.6974,Trafford,AL,Alabama,Blount,United State Of America,US,USA,Location
+35173,33.65046,-86.56422,Trussville,AL,Alabama,Jefferson,United State Of America,US,USA,Location
+35175,34.43726,-86.51699,Union Grove,AL,Alabama,Marshall,United State Of America,US,USA,Location
+35176,33.48535,-86.49824,Vandiver,AL,Alabama,Shelby,United State Of America,US,USA,Location
+35178,33.41985,-86.39878,Vincent,AL,Alabama,Shelby,United State Of America,US,USA,Location
+35179,34.26849,-86.96695,Vinemont,AL,Alabama,Cullman,United State Of America,US,USA,Location
+35180,33.82638,-86.83547,Warrior,AL,Alabama,Jefferson,United State Of America,US,USA,Location
+35183,33.0159,-86.35077,Weogufka,AL,Alabama,Coosa,United State Of America,US,USA,Location
+35184,33.11479,-87.13924,West Blocton,AL,Alabama,Bibb,United State Of America,US,USA,Location
+35186,33.25696,-86.51426,Wilsonville,AL,Alabama,Shelby,United State Of America,US,USA,Location
+35187,33.08051,-86.8858,Wilton,AL,Alabama,Shelby,United State Of America,US,USA,Location
+35188,33.18211,-87.17021,Woodstock,AL,Alabama,Bibb,United State Of America,US,USA,Location
+35203,33.51867,-86.80972,Birmingham,AL,Alabama,Jefferson,United State Of America,US,USA,Location
+35204,33.52208,-86.83984,Birmingham,AL,Alabama,Jefferson,United State Of America,US,USA,Location
+35205,33.49496,-86.80825,Birmingham,AL,Alabama,Jefferson,United State Of America,US,USA,Location
+35206,33.56925,-86.71339,Birmingham,AL,Alabama,Jefferson,United State Of America,US,USA,Location
+35207,33.56613,-86.82296,Birmingham,AL,Alabama,Jefferson,United State Of America,US,USA,Location
+35208,33.49693,-86.87928,Birmingham,AL,Alabama,Jefferson,United State Of America,US,USA,Location
+35209,33.46534,-86.81159,Birmingham,AL,Alabama,Jefferson,United State Of America,US,USA,Location
+35210,33.54518,-86.66549,Birmingham,AL,Alabama,Jefferson,United State Of America,US,USA,Location
+35211,33.4501,-86.87147,Birmingham,AL,Alabama,Jefferson,United State Of America,US,USA,Location
+35212,33.54736,-86.75296,Birmingham,AL,Alabama,Jefferson,United State Of America,US,USA,Location
+35213,33.50658,-86.74285,Birmingham,AL,Alabama,Jefferson,United State Of America,US,USA,Location
+35214,33.57688,-86.89186,Birmingham,AL,Alabama,Jefferson,United State Of America,US,USA,Location
+35215,33.64919,-86.70587,Birmingham,AL,Alabama,Jefferson,United State Of America,US,USA,Location
+35216,33.4187,-86.78667,Birmingham,AL,Alabama,Jefferson,United State Of America,US,USA,Location
+35217,33.60815,-86.76034,Birmingham,AL,Alabama,Jefferson,United State Of America,US,USA,Location
+35218,33.5078,-86.89385,Birmingham,AL,Alabama,Jefferson,United State Of America,US,USA,Location
+35221,33.44953,-86.89902,Birmingham,AL,Alabama,Jefferson,United State Of America,US,USA,Location
+35222,33.52409,-86.77025,Birmingham,AL,Alabama,Jefferson,United State Of America,US,USA,Location
+35223,33.4869,-86.7375,Birmingham,AL,Alabama,Jefferson,United State Of America,US,USA,Location
+35224,33.51938,-86.94447,Birmingham,AL,Alabama,Jefferson,United State Of America,US,USA,Location
+35226,33.39851,-86.84435,Birmingham,AL,Alabama,Jefferson,United State Of America,US,USA,Location
+35228,33.45621,-86.92103,Birmingham,AL,Alabama,Jefferson,United State Of America,US,USA,Location
+35229,33.46558,-86.7891,Birmingham,AL,Alabama,Jefferson,United State Of America,US,USA,Location
+35233,33.50876,-86.80194,Birmingham,AL,Alabama,Jefferson,United State Of America,US,USA,Location
+35234,33.5408,-86.80286,Birmingham,AL,Alabama,Jefferson,United State Of America,US,USA,Location
+35235,33.62409,-86.64834,Birmingham,AL,Alabama,Jefferson,United State Of America,US,USA,Location
+35242,33.42521,-86.67144,Birmingham,AL,Alabama,Shelby,United State Of America,US,USA,Location
+35243,33.44278,-86.73994,Birmingham,AL,Alabama,Jefferson,United State Of America,US,USA,Location
+35244,33.35372,-86.82548,Birmingham,AL,Alabama,Jefferson,United State Of America,US,USA,Location
+35254,33.51616,-86.85744,Birmingham,AL,Alabama,Jefferson,United State Of America,US,USA,Location
+35401,33.16878,-87.61357,Tuscaloosa,AL,Alabama,Tuscaloosa,United State Of America,US,USA,Location
+35404,33.21667,-87.48608,Tuscaloosa,AL,Alabama,Tuscaloosa,United State Of America,US,USA,Location
+35405,33.1158,-87.54288,Tuscaloosa,AL,Alabama,Tuscaloosa,United State Of America,US,USA,Location
+35406,33.33412,-87.47043,Tuscaloosa,AL,Alabama,Tuscaloosa,United State Of America,US,USA,Location
+35441,32.85374,-87.73861,Akron,AL,Alabama,Hale,United State Of America,US,USA,Location
+35442,33.07371,-88.19359,Aliceville,AL,Alabama,Pickens,United State Of America,US,USA,Location
+35443,32.75294,-88.01125,Boligee,AL,Alabama,Greene,United State Of America,US,USA,Location
+35444,33.33696,-87.30325,Brookwood,AL,Alabama,Tuscaloosa,United State Of America,US,USA,Location
+35446,33.21618,-87.74714,Buhl,AL,Alabama,Tuscaloosa,United State Of America,US,USA,Location
+35447,33.25669,-88.15448,Carrollton,AL,Alabama,Pickens,United State Of America,US,USA,Location
+35452,33.28173,-87.68366,Coker,AL,Alabama,Tuscaloosa,United State Of America,US,USA,Location
+35453,33.1642,-87.38809,Cottondale,AL,Alabama,Tuscaloosa,United State Of America,US,USA,Location
+35456,33.05553,-87.42714,Duncanville,AL,Alabama,Tuscaloosa,United State Of America,US,USA,Location
+35457,33.29618,-87.7737,Echola,AL,Alabama,Tuscaloosa,United State Of America,US,USA,Location
+35458,33.36693,-87.79135,Elrod,AL,Alabama,Tuscaloosa,United State Of America,US,USA,Location
+35459,32.79859,-88.30287,Emelle,AL,Alabama,Sumter,United State Of America,US,USA,Location
+35460,32.70902,-88.15033,Epes,AL,Alabama,Sumter,United State Of America,US,USA,Location
+35461,33.41546,-88.2142,Ethelsville,AL,Alabama,Pickens,United State Of America,US,USA,Location
+35462,32.93442,-87.95285,Eutaw,AL,Alabama,Greene,United State Of America,US,USA,Location
+35463,33.069,-87.68755,Fosters,AL,Alabama,Tuscaloosa,United State Of America,US,USA,Location
+35464,32.80329,-88.15355,Gainesville,AL,Alabama,Sumter,United State Of America,US,USA,Location
+35466,33.25825,-87.91413,Gordo,AL,Alabama,Pickens,United State Of America,US,USA,Location
+35469,32.96994,-87.77204,Knoxville,AL,Alabama,Greene,United State Of America,US,USA,Location
+35470,32.55682,-88.10364,Livingston,AL,Alabama,Sumter,United State Of America,US,USA,Location
+35473,33.27234,-87.58246,Northport,AL,Alabama,Tuscaloosa,United State Of America,US,USA,Location
+35474,32.93785,-87.57215,Moundville,AL,Alabama,Hale,United State Of America,US,USA,Location
+35475,33.43293,-87.58694,Northport,AL,Alabama,Tuscaloosa,United State Of America,US,USA,Location
+35476,33.22732,-87.59444,Northport,AL,Alabama,Tuscaloosa,United State Of America,US,USA,Location
+35477,32.95132,-88.24098,Panola,AL,Alabama,Sumter,United State Of America,US,USA,Location
+35480,33.08965,-87.82006,Ralph,AL,Alabama,Tuscaloosa,United State Of America,US,USA,Location
+35481,33.39398,-88.03736,Reform,AL,Alabama,Pickens,United State Of America,US,USA,Location
+35490,33.21341,-87.24587,Vance,AL,Alabama,Tuscaloosa,United State Of America,US,USA,Location
+35501,33.81908,-87.29271,Jasper,AL,Alabama,Walker,United State Of America,US,USA,Location
+35503,33.93756,-87.30035,Jasper,AL,Alabama,Walker,United State Of America,US,USA,Location
+35504,33.89267,-87.1667,Jasper,AL,Alabama,Walker,United State Of America,US,USA,Location
+35540,34.23388,-87.18817,Addison,AL,Alabama,Winston,United State Of America,US,USA,Location
+35541,34.08013,-87.18065,Arley,AL,Alabama,Winston,United State Of America,US,USA,Location
+35542,33.71588,-87.67889,Bankston,AL,Alabama,Fayette,United State Of America,US,USA,Location
+35543,34.22419,-87.75005,Bear Creek,AL,Alabama,Marion,United State Of America,US,USA,Location
+35544,33.95519,-88.01906,Beaverton,AL,Alabama,Lamar,United State Of America,US,USA,Location
+35545,33.65152,-87.93483,Belk,AL,Alabama,Fayette,United State Of America,US,USA,Location
+35546,33.60721,-87.54901,Berry,AL,Alabama,Fayette,United State Of America,US,USA,Location
+35548,34.06757,-87.75118,Brilliant,AL,Alabama,Marion,United State Of America,US,USA,Location
+35549,33.8364,-87.54728,Carbon Hill,AL,Alabama,Walker,United State Of America,US,USA,Location
+35550,33.74176,-87.16599,Cordova,AL,Alabama,Walker,United State Of America,US,USA,Location
+35552,34.07229,-88.14217,Detroit,AL,Alabama,Lamar,United State Of America,US,USA,Location
+35553,34.12065,-87.38569,Double Springs,AL,Alabama,Winston,United State Of America,US,USA,Location
+35554,33.8961,-87.65716,Eldridge,AL,Alabama,Marion,United State Of America,US,USA,Location
+35555,33.6663,-87.81846,Fayette,AL,Alabama,Fayette,United State Of America,US,USA,Location
+35559,33.90559,-87.72823,Glen Allen,AL,Alabama,Fayette,United State Of America,US,USA,Location
+35563,33.98374,-87.8977,Guin,AL,Alabama,Marion,United State Of America,US,USA,Location
+35564,34.25604,-87.84794,Hackleburg,AL,Alabama,Marion,United State Of America,US,USA,Location
+35565,34.23414,-87.55886,Haleyville,AL,Alabama,Winston,United State Of America,US,USA,Location
+35570,34.1646,-87.99501,Hamilton,AL,Alabama,Marion,United State Of America,US,USA,Location
+35571,34.35605,-87.95001,Hodges,AL,Alabama,Franklin,United State Of America,US,USA,Location
+35572,34.20366,-87.29647,Houston,AL,Alabama,Winston,United State Of America,US,USA,Location
+35574,33.56503,-87.95048,Kennedy,AL,Alabama,Fayette,United State Of America,US,USA,Location
+35575,34.04293,-87.57845,Lynn,AL,Alabama,Winston,United State Of America,US,USA,Location
+35576,33.57923,-88.13129,Millport,AL,Alabama,Lamar,United State Of America,US,USA,Location
+35577,34.10237,-87.62001,Natural Bridge,AL,Alabama,Winston,United State Of America,US,USA,Location
+35578,33.98434,-87.46614,Nauvoo,AL,Alabama,Walker,United State Of America,US,USA,Location
+35579,33.63662,-87.35619,Oakman,AL,Alabama,Walker,United State Of America,US,USA,Location
+35580,33.67376,-87.26448,Parrish,AL,Alabama,Walker,United State Of America,US,USA,Location
+35581,34.35851,-87.71319,Phil Campbell,AL,Alabama,Franklin,United State Of America,US,USA,Location
+35582,34.48839,-88.09439,Red Bay,AL,Alabama,Franklin,United State Of America,US,USA,Location
+35584,33.82199,-87.08699,Sipsey,AL,Alabama,Walker,United State Of America,US,USA,Location
+35585,34.41687,-87.80985,Spruce Pine,AL,Alabama,Franklin,United State Of America,US,USA,Location
+35586,33.87665,-88.13869,Sulligent,AL,Alabama,Lamar,United State Of America,US,USA,Location
+35587,33.80054,-87.45393,Townley,AL,Alabama,Walker,United State Of America,US,USA,Location
+35592,33.74629,-88.08439,Vernon,AL,Alabama,Lamar,United State Of America,US,USA,Location
+35593,34.34976,-88.08015,Vina,AL,Alabama,Franklin,United State Of America,US,USA,Location
+35594,33.92969,-87.77212,Winfield,AL,Alabama,Marion,United State Of America,US,USA,Location
+35601,34.60907,-87.01333,Decatur,AL,Alabama,Morgan,United State Of America,US,USA,Location
+35603,34.5375,-86.96675,Decatur,AL,Alabama,Morgan,United State Of America,US,USA,Location
+35610,34.95098,-87.24209,Anderson,AL,Alabama,Lauderdale,United State Of America,US,USA,Location
+35611,34.76711,-87.08565,Athens,AL,Alabama,Limestone,United State Of America,US,USA,Location
+35613,34.82405,-86.87736,Athens,AL,Alabama,Limestone,United State Of America,US,USA,Location
+35614,34.86542,-87.08385,Athens,AL,Alabama,Limestone,United State Of America,US,USA,Location
+35615,34.66399,-86.87415,Belle Mina,AL,Alabama,Limestone,United State Of America,US,USA,Location
+35616,34.73885,-88.01897,Cherokee,AL,Alabama,Colbert,United State Of America,US,USA,Location
+35618,34.64788,-87.30612,Courtland,AL,Alabama,Lawrence,United State Of America,US,USA,Location
+35619,34.38732,-87.14546,Danville,AL,Alabama,Morgan,United State Of America,US,USA,Location
+35620,34.93151,-86.99131,Elkmont,AL,Alabama,Limestone,United State Of America,US,USA,Location
+35621,34.3496,-86.72508,Eva,AL,Alabama,Morgan,United State Of America,US,USA,Location
+35622,34.34341,-86.89783,Falkville,AL,Alabama,Morgan,United State Of America,US,USA,Location
+35630,34.82363,-87.66057,Florence,AL,Alabama,Lauderdale,United State Of America,US,USA,Location
+35633,34.87641,-87.79858,Florence,AL,Alabama,Lauderdale,United State Of America,US,USA,Location
+35634,34.9186,-87.61357,Florence,AL,Alabama,Lauderdale,United State Of America,US,USA,Location
+35640,34.44125,-86.94406,Hartselle,AL,Alabama,Morgan,United State Of America,US,USA,Location
+35643,34.67015,-87.20546,Hillsboro,AL,Alabama,Lawrence,United State Of America,US,USA,Location
+35645,34.90184,-87.50087,Killen,AL,Alabama,Lauderdale,United State Of America,US,USA,Location
+35646,34.67172,-87.52829,Leighton,AL,Alabama,Colbert,United State Of America,US,USA,Location
+35647,34.96594,-87.12179,Lester,AL,Alabama,Limestone,United State Of America,US,USA,Location
+35648,34.95875,-87.38491,Lexington,AL,Alabama,Lauderdale,United State Of America,US,USA,Location
+35649,34.61705,-86.87099,Mooresville,AL,Alabama,Limestone,United State Of America,US,USA,Location
+35650,34.45074,-87.3024,Moulton,AL,Alabama,Lawrence,United State Of America,US,USA,Location
+35651,34.46688,-87.48741,Mount Hope,AL,Alabama,Lawrence,United State Of America,US,USA,Location
+35652,34.84536,-87.31128,Rogersville,AL,Alabama,Lauderdale,United State Of America,US,USA,Location
+35653,34.51688,-87.87134,Russellville,AL,Alabama,Franklin,United State Of America,US,USA,Location
+35654,34.49805,-87.62779,Russellville,AL,Alabama,Franklin,United State Of America,US,USA,Location
+35660,34.75597,-87.70091,Sheffield,AL,Alabama,Colbert,United State Of America,US,USA,Location
+35661,34.77344,-87.56508,Muscle Shoals,AL,Alabama,Colbert,United State Of America,US,USA,Location
+35670,34.46094,-86.71906,Somerville,AL,Alabama,Morgan,United State Of America,US,USA,Location
+35671,34.66632,-86.94946,Tanner,AL,Alabama,Limestone,United State Of America,US,USA,Location
+35672,34.64716,-87.40674,Town Creek,AL,Alabama,Lawrence,United State Of America,US,USA,Location
+35673,34.58095,-87.13627,Trinity,AL,Alabama,Lawrence,United State Of America,US,USA,Location
+35674,34.6576,-87.78283,Tuscumbia,AL,Alabama,Colbert,United State Of America,US,USA,Location
+35677,34.95504,-88.02708,Waterloo,AL,Alabama,Lauderdale,United State Of America,US,USA,Location
+35739,34.969,-86.79579,Ardmore,AL,Alabama,Limestone,United State Of America,US,USA,Location
+35740,34.9501,-85.75855,Bridgeport,AL,Alabama,Jackson,United State Of America,US,USA,Location
+35741,34.72143,-86.48335,Brownsboro,AL,Alabama,Madison,United State Of America,US,USA,Location
+35744,34.61216,-85.90672,Dutton,AL,Alabama,Jackson,United State Of America,US,USA,Location
+35745,34.94092,-86.20011,Estillfork,AL,Alabama,Jackson,United State Of America,US,USA,Location
+35746,34.82902,-85.99594,Fackler,AL,Alabama,Jackson,United State Of America,US,USA,Location
+35747,34.49446,-86.30739,Grant,AL,Alabama,Marshall,United State Of America,US,USA,Location
+35748,34.72195,-86.387,Gurley,AL,Alabama,Madison,United State Of America,US,USA,Location
+35749,34.82432,-86.75333,Harvest,AL,Alabama,Madison,United State Of America,US,USA,Location
+35750,34.95095,-86.59506,Hazel Green,AL,Alabama,Madison,United State Of America,US,USA,Location
+35751,34.81057,-86.27962,Hollytree,AL,Alabama,Jackson,United State Of America,US,USA,Location
+35752,34.74811,-85.94586,Hollywood,AL,Alabama,Jackson,United State Of America,US,USA,Location
+35754,34.51953,-86.61027,Laceys Spring,AL,Alabama,Morgan,United State Of America,US,USA,Location
+35755,34.50012,-86.13529,Langston,AL,Alabama,Marshall,United State Of America,US,USA,Location
+35756,34.64299,-86.81678,Madison,AL,Alabama,Limestone,United State Of America,US,USA,Location
+35757,34.78311,-86.74491,Madison,AL,Alabama,Madison,United State Of America,US,USA,Location
+35758,34.71349,-86.74668,Madison,AL,Alabama,Madison,United State Of America,US,USA,Location
+35759,34.86439,-86.5504,Meridianville,AL,Alabama,Madison,United State Of America,US,USA,Location
+35760,34.54918,-86.38259,New Hope,AL,Alabama,Madison,United State Of America,US,USA,Location
+35761,34.91474,-86.41162,New Market,AL,Alabama,Madison,United State Of America,US,USA,Location
+35763,34.62149,-86.4644,Owens Cross Roads,AL,Alabama,Madison,United State Of America,US,USA,Location
+35764,34.72329,-86.31044,Paint Rock,AL,Alabama,Jackson,United State Of America,US,USA,Location
+35765,34.69067,-85.81783,Pisgah,AL,Alabama,Jackson,United State Of America,US,USA,Location
+35766,34.87344,-86.27667,Princeton,AL,Alabama,Jackson,United State Of America,US,USA,Location
+35768,34.7711,-86.10539,Scottsboro,AL,Alabama,Jackson,United State Of America,US,USA,Location
+35769,34.59,-86.09795,Scottsboro,AL,Alabama,Jackson,United State Of America,US,USA,Location
+35771,34.53626,-86.00238,Section,AL,Alabama,Jackson,United State Of America,US,USA,Location
+35772,34.89075,-85.88755,Stevenson,AL,Alabama,Jackson,United State Of America,US,USA,Location
+35773,34.89329,-86.7125,Toney,AL,Alabama,Madison,United State Of America,US,USA,Location
+35774,34.76323,-86.22948,Trenton,AL,Alabama,Jackson,United State Of America,US,USA,Location
+35775,34.54807,-86.69778,Valhermoso Springs,AL,Alabama,Morgan,United State Of America,US,USA,Location
+35776,34.66144,-86.2383,Woodville,AL,Alabama,Jackson,United State Of America,US,USA,Location
+35801,34.72465,-86.56222,Huntsville,AL,Alabama,Madison,United State Of America,US,USA,Location
+35802,34.6697,-86.55886,Huntsville,AL,Alabama,Madison,United State Of America,US,USA,Location
+35803,34.56468,-86.52141,Huntsville,AL,Alabama,Madison,United State Of America,US,USA,Location
+35805,34.70858,-86.62125,Huntsville,AL,Alabama,Madison,United State Of America,US,USA,Location
+35806,34.76306,-86.68511,Huntsville,AL,Alabama,Madison,United State Of America,US,USA,Location
+35808,34.63187,-86.65738,Huntsville,AL,Alabama,Madison,United State Of America,US,USA,Location
+35810,34.80096,-86.60762,Huntsville,AL,Alabama,Madison,United State Of America,US,USA,Location
+35811,34.79693,-86.50603,Huntsville,AL,Alabama,Madison,United State Of America,US,USA,Location
+35816,34.74016,-86.63031,Huntsville,AL,Alabama,Madison,United State Of America,US,USA,Location
+35824,34.6444,-86.75324,Huntsville,AL,Alabama,Madison,United State Of America,US,USA,Location
+35896,34.7543,-86.65457,Huntsville,AL,Alabama,Madison,United State Of America,US,USA,Location
+35901,34.04796,-85.92463,Gadsden,AL,Alabama,Etowah,United State Of America,US,USA,Location
+35903,34.02708,-85.86093,Gadsden,AL,Alabama,Etowah,United State Of America,US,USA,Location
+35904,34.07019,-85.9931,Gadsden,AL,Alabama,Etowah,United State Of America,US,USA,Location
+35905,33.93408,-85.89942,Gadsden,AL,Alabama,Etowah,United State Of America,US,USA,Location
+35906,33.9318,-86.08978,Rainbow City,AL,Alabama,Etowah,United State Of America,US,USA,Location
+35907,33.8979,-86.02446,Gadsden,AL,Alabama,Etowah,United State Of America,US,USA,Location
+35950,34.25261,-86.26201,Albertville,AL,Alabama,Marshall,United State Of America,US,USA,Location
+35951,34.34125,-86.16165,Albertville,AL,Alabama,Marshall,United State Of America,US,USA,Location
+35952,34.05283,-86.30823,Altoona,AL,Alabama,Etowah,United State Of America,US,USA,Location
+35953,33.81243,-86.22612,Ashville,AL,Alabama,St. Clair,United State Of America,US,USA,Location
+35954,34.08839,-86.06009,Attalla,AL,Alabama,Etowah,United State Of America,US,USA,Location
+35956,34.14373,-86.14794,Boaz,AL,Alabama,Etowah,United State Of America,US,USA,Location
+35957,34.19207,-86.19421,Boaz,AL,Alabama,Marshall,United State Of America,US,USA,Location
+35958,34.91808,-85.64682,Bryant,AL,Alabama,Jackson,United State Of America,US,USA,Location
+35959,34.24059,-85.60697,Cedar Bluff,AL,Alabama,Cherokee,United State Of America,US,USA,Location
+35960,34.12779,-85.57398,Centre,AL,Alabama,Cherokee,United State Of America,US,USA,Location
+35961,34.27945,-85.86026,Collinsville,AL,Alabama,Cherokee,United State Of America,US,USA,Location
+35962,34.30187,-86.03995,Crossville,AL,Alabama,DeKalb,United State Of America,US,USA,Location
+35963,34.36165,-85.93023,Dawson,AL,Alabama,DeKalb,United State Of America,US,USA,Location
+35966,34.79657,-85.67879,Flat Rock,AL,Alabama,Jackson,United State Of America,US,USA,Location
+35967,34.40141,-85.69627,Fort Payne,AL,Alabama,DeKalb,United State Of America,US,USA,Location
+35968,34.48975,-85.7657,Fort Payne,AL,Alabama,DeKalb,United State Of America,US,USA,Location
+35971,34.45552,-85.94512,Fyffe,AL,Alabama,DeKalb,United State Of America,US,USA,Location
+35972,33.99145,-86.24523,Gallant,AL,Alabama,Etowah,United State Of America,US,USA,Location
+35973,34.34642,-85.55435,Gaylesville,AL,Alabama,Cherokee,United State Of America,US,USA,Location
+35974,34.3635,-86.01169,Geraldine,AL,Alabama,DeKalb,United State Of America,US,USA,Location
+35975,34.44014,-86.06631,Groveoak,AL,Alabama,DeKalb,United State Of America,US,USA,Location
+35976,34.34747,-86.33349,Guntersville,AL,Alabama,Marshall,United State Of America,US,USA,Location
+35978,34.64379,-85.72786,Henagar,AL,Alabama,DeKalb,United State Of America,US,USA,Location
+35979,34.83232,-85.60958,Higdon,AL,Alabama,DeKalb,United State Of America,US,USA,Location
+35980,34.17625,-86.38525,Horton,AL,Alabama,Marshall,United State Of America,US,USA,Location
+35981,34.72235,-85.64878,Ider,AL,Alabama,DeKalb,United State Of America,US,USA,Location
+35983,34.17232,-85.76884,Leesburg,AL,Alabama,Cherokee,United State Of America,US,USA,Location
+35984,34.52955,-85.56686,Mentone,AL,Alabama,DeKalb,United State Of America,US,USA,Location
+35986,34.50328,-85.84036,Rainsville,AL,Alabama,DeKalb,United State Of America,US,USA,Location
+35987,33.91706,-86.23811,Steele,AL,Alabama,St. Clair,United State Of America,US,USA,Location
+35988,34.56012,-85.79988,Sylvania,AL,Alabama,DeKalb,United State Of America,US,USA,Location
+35989,34.60744,-85.63124,Valley Head,AL,Alabama,DeKalb,United State Of America,US,USA,Location
+35990,34.06773,-86.30454,Walnut Grove,AL,Alabama,Etowah,United State Of America,US,USA,Location
+36003,32.45322,-86.72385,Autaugaville,AL,Alabama,Autauga,United State Of America,US,USA,Location
+36005,31.88607,-85.72077,Banks,AL,Alabama,Pike,United State Of America,US,USA,Location
+36006,32.64152,-86.72346,Billingsley,AL,Alabama,Autauga,United State Of America,US,USA,Location
+36009,31.58357,-86.29694,Brantley,AL,Alabama,Crenshaw,United State Of America,US,USA,Location
+36010,31.66892,-85.81158,Brundidge,AL,Alabama,Pike,United State Of America,US,USA,Location
+36013,32.29372,-85.98264,Cecil,AL,Alabama,Montgomery,United State Of America,US,USA,Location
+36016,31.85209,-85.42935,Clayton,AL,Alabama,Barbour,United State Of America,US,USA,Location
+36017,31.68173,-85.55507,Clio,AL,Alabama,Barbour,United State Of America,US,USA,Location
+36020,32.48819,-86.31931,Coosada,AL,Alabama,Elmore,United State Of America,US,USA,Location
+36022,32.61945,-86.40471,Deatsville,AL,Alabama,Elmore,United State Of America,US,USA,Location
+36024,32.66674,-86.03198,Eclectic,AL,Alabama,Elmore,United State Of America,US,USA,Location
+36025,32.54153,-86.3256,Elmore,AL,Alabama,Elmore,United State Of America,US,USA,Location
+36026,32.77815,-86.12751,Equality,AL,Alabama,Coosa,United State Of America,US,USA,Location
+36027,31.93342,-85.20924,Eufaula,AL,Alabama,Barbour,United State Of America,US,USA,Location
+36028,31.49916,-86.38884,Dozier,AL,Alabama,Covington,United State Of America,US,USA,Location
+36029,32.1779,-85.93363,Fitzpatrick,AL,Alabama,Bullock,United State Of America,US,USA,Location
+36030,31.86642,-86.85983,Forest Home,AL,Alabama,Butler,United State Of America,US,USA,Location
+36031,32.24878,-85.74358,Fort Davis,AL,Alabama,Macon,United State Of America,US,USA,Location
+36032,31.99429,-86.56931,Fort Deposit,AL,Alabama,Lowndes,United State Of America,US,USA,Location
+36033,31.67124,-86.76784,Georgiana,AL,Alabama,Butler,United State Of America,US,USA,Location
+36034,31.62105,-86.11065,Glenwood,AL,Alabama,Pike,United State Of America,US,USA,Location
+36035,31.79458,-86.12767,Goshen,AL,Alabama,Pike,United State Of America,US,USA,Location
+36036,31.9776,-86.15575,Grady,AL,Alabama,Montgomery,United State Of America,US,USA,Location
+36037,31.79895,-86.62528,Greenville,AL,Alabama,Butler,United State Of America,US,USA,Location
+36038,31.43617,-86.48945,Gantt,AL,Alabama,Covington,United State Of America,US,USA,Location
+36039,32.28151,-85.83493,Hardaway,AL,Alabama,Macon,United State Of America,US,USA,Location
+36040,32.16517,-86.68284,Hayneville,AL,Alabama,Lowndes,United State Of America,US,USA,Location
+36041,31.91463,-86.31825,Highland Home,AL,Alabama,Crenshaw,United State Of America,US,USA,Location
+36042,31.86659,-86.44932,Honoraville,AL,Alabama,Crenshaw,United State Of America,US,USA,Location
+36043,32.19944,-86.41766,Hope Hull,AL,Alabama,Montgomery,United State Of America,US,USA,Location
+36046,32.00539,-86.33779,Lapine,AL,Alabama,Crenshaw,United State Of America,US,USA,Location
+36047,32.08133,-86.51662,Letohatchee,AL,Alabama,Lowndes,United State Of America,US,USA,Location
+36048,31.7902,-85.59036,Louisville,AL,Alabama,Barbour,United State Of America,US,USA,Location
+36049,31.76331,-86.28198,Luverne,AL,Alabama,Crenshaw,United State Of America,US,USA,Location
+36051,32.68411,-86.49464,Marbury,AL,Alabama,Autauga,United State Of America,US,USA,Location
+36052,32.18684,-86.04649,Mathews,AL,Alabama,Montgomery,United State Of America,US,USA,Location
+36053,32.03353,-85.43924,Midway,AL,Alabama,Bullock,United State Of America,US,USA,Location
+36054,32.48358,-86.36669,Millbrook,AL,Alabama,Elmore,United State Of America,US,USA,Location
+36064,32.30269,-86.07947,Pike Road,AL,Alabama,Montgomery,United State Of America,US,USA,Location
+36066,32.47996,-86.42407,Prattville,AL,Alabama,Autauga,United State Of America,US,USA,Location
+36067,32.51249,-86.56896,Prattville,AL,Alabama,Autauga,United State Of America,US,USA,Location
+36069,32.09518,-86.15237,Ramer,AL,Alabama,Montgomery,United State Of America,US,USA,Location
+36071,31.70591,-86.39566,Rutledge,AL,Alabama,Crenshaw,United State Of America,US,USA,Location
+36075,32.38458,-85.91114,Shorter,AL,Alabama,Macon,United State Of America,US,USA,Location
+36078,32.54058,-85.9355,Tallassee,AL,Alabama,Elmore,United State Of America,US,USA,Location
+36079,31.75954,-86.0107,Troy,AL,Alabama,Pike,United State Of America,US,USA,Location
+36080,32.70211,-86.28413,Titus,AL,Alabama,Elmore,United State Of America,US,USA,Location
+36081,31.90489,-85.89686,Troy,AL,Alabama,Pike,United State Of America,US,USA,Location
+36082,31.80273,-85.95469,Troy,AL,Alabama,Pike,United State Of America,US,USA,Location
+36083,32.38841,-85.68244,Tuskegee,AL,Alabama,Macon,United State Of America,US,USA,Location
+36088,32.41685,-85.71784,Tuskegee Institute,AL,Alabama,Macon,United State Of America,US,USA,Location
+36089,32.15113,-85.70046,Union Springs,AL,Alabama,Bullock,United State Of America,US,USA,Location
+36091,32.75087,-86.51182,Verbena,AL,Alabama,Autauga,United State Of America,US,USA,Location
+36092,32.61799,-86.19335,Wetumpka,AL,Alabama,Elmore,United State Of America,US,USA,Location
+36093,32.49754,-86.14037,Wetumpka,AL,Alabama,Elmore,United State Of America,US,USA,Location
+36104,32.39967,-86.32494,Montgomery,AL,Alabama,Montgomery,United State Of America,US,USA,Location
+36105,32.21339,-86.28962,Montgomery,AL,Alabama,Montgomery,United State Of America,US,USA,Location
+36106,32.3525,-86.25758,Montgomery,AL,Alabama,Montgomery,United State Of America,US,USA,Location
+36107,32.38377,-86.27932,Montgomery,AL,Alabama,Montgomery,United State Of America,US,USA,Location
+36108,32.33961,-86.40631,Montgomery,AL,Alabama,Montgomery,United State Of America,US,USA,Location
+36109,32.38711,-86.2414,Montgomery,AL,Alabama,Montgomery,United State Of America,US,USA,Location
+36110,32.44856,-86.2567,Montgomery,AL,Alabama,Montgomery,United State Of America,US,USA,Location
+36111,32.33758,-86.27162,Montgomery,AL,Alabama,Montgomery,United State Of America,US,USA,Location
+36112,32.38074,-86.34915,Montgomery,AL,Alabama,Montgomery,United State Of America,US,USA,Location
+36113,32.38276,-86.35807,Montgomery,AL,Alabama,Montgomery,United State Of America,US,USA,Location
+36115,32.40679,-86.24676,Montgomery,AL,Alabama,Montgomery,United State Of America,US,USA,Location
+36116,32.27263,-86.2154,Montgomery,AL,Alabama,Montgomery,United State Of America,US,USA,Location
+36117,32.37856,-86.14567,Montgomery,AL,Alabama,Montgomery,United State Of America,US,USA,Location
+36201,33.65146,-85.8788,Anniston,AL,Alabama,Calhoun,United State Of America,US,USA,Location
+36203,33.58154,-85.83295,Oxford,AL,Alabama,Calhoun,United State Of America,US,USA,Location
+36205,33.71723,-85.79495,Anniston,AL,Alabama,Calhoun,United State Of America,US,USA,Location
+36206,33.73408,-85.81433,Anniston,AL,Alabama,Calhoun,United State Of America,US,USA,Location
+36207,33.68027,-85.71375,Anniston,AL,Alabama,Calhoun,United State Of America,US,USA,Location
+36250,33.76778,-85.89685,Alexandria,AL,Alabama,Calhoun,United State Of America,US,USA,Location
+36251,33.22982,-85.86642,Ashland,AL,Alabama,Clay,United State Of America,US,USA,Location
+36255,33.17466,-85.73837,Cragford,AL,Alabama,Clay,United State Of America,US,USA,Location
+36256,33.04209,-85.70281,Daviston,AL,Alabama,Tallapoosa,United State Of America,US,USA,Location
+36258,33.47584,-85.71479,Delta,AL,Alabama,Clay,United State Of America,US,USA,Location
+36260,33.58362,-86.00157,Eastaboga,AL,Alabama,Calhoun,United State Of America,US,USA,Location
+36262,33.78757,-85.46555,Fruithurst,AL,Alabama,Cleburne,United State Of America,US,USA,Location
+36263,33.46623,-85.35928,Graham,AL,Alabama,Randolph,United State Of America,US,USA,Location
+36264,33.59501,-85.53865,Heflin,AL,Alabama,Cleburne,United State Of America,US,USA,Location
+36265,33.84778,-85.78524,Jacksonville,AL,Alabama,Calhoun,United State Of America,US,USA,Location
+36266,33.34875,-85.74062,Lineville,AL,Alabama,Clay,United State Of America,US,USA,Location
+36267,33.19732,-85.94815,Millerville,AL,Alabama,Clay,United State Of America,US,USA,Location
+36268,33.49714,-85.94132,Munford,AL,Alabama,Talladega,United State Of America,US,USA,Location
+36269,33.74339,-85.38289,Muscadine,AL,Alabama,Cleburne,United State Of America,US,USA,Location
+36271,33.78149,-86.01611,Ohatchee,AL,Alabama,Calhoun,United State Of America,US,USA,Location
+36272,33.94169,-85.596,Piedmont,AL,Alabama,Etowah,United State Of America,US,USA,Location
+36273,33.5403,-85.37853,Ranburne,AL,Alabama,Cleburne,United State Of America,US,USA,Location
+36274,33.17308,-85.36788,Roanoke,AL,Alabama,Randolph,United State Of America,US,USA,Location
+36276,33.13384,-85.57061,Wadley,AL,Alabama,Randolph,United State Of America,US,USA,Location
+36277,33.75973,-85.81881,Weaver,AL,Alabama,Calhoun,United State Of America,US,USA,Location
+36278,33.32618,-85.52697,Wedowee,AL,Alabama,Randolph,United State Of America,US,USA,Location
+36279,33.8734,-85.8841,Wellington,AL,Alabama,Calhoun,United State Of America,US,USA,Location
+36280,33.38185,-85.38695,Woodland,AL,Alabama,Randolph,United State Of America,US,USA,Location
+36301,31.14367,-85.40236,Dothan,AL,Alabama,Houston,United State Of America,US,USA,Location
+36303,31.26678,-85.39717,Dothan,AL,Alabama,Houston,United State Of America,US,USA,Location
+36305,31.20136,-85.49807,Dothan,AL,Alabama,Houston,United State Of America,US,USA,Location
+36310,31.60296,-85.2163,Abbeville,AL,Alabama,Henry,United State Of America,US,USA,Location
+36311,31.60246,-85.6815,Ariton,AL,Alabama,Coffee,United State Of America,US,USA,Location
+36312,31.17088,-85.23739,Ashford,AL,Alabama,Houston,United State Of America,US,USA,Location
+36313,31.17861,-85.79394,Bellwood,AL,Alabama,Geneva,United State Of America,US,USA,Location
+36314,31.01866,-85.77585,Black,AL,Alabama,Geneva,United State Of America,US,USA,Location
+36316,31.17361,-85.86271,Chancellor,AL,Alabama,Geneva,United State Of America,US,USA,Location
+36317,31.64459,-85.39108,Clopton,AL,Alabama,Barbour,United State Of America,US,USA,Location
+36318,31.17511,-85.95325,Coffee Springs,AL,Alabama,Geneva,United State Of America,US,USA,Location
+36319,31.32462,-85.14759,Columbia,AL,Alabama,Houston,United State Of America,US,USA,Location
+36320,31.05082,-85.31533,Cottonwood,AL,Alabama,Houston,United State Of America,US,USA,Location
+36321,31.2118,-85.30184,Cowarts,AL,Alabama,Houston,United State Of America,US,USA,Location
+36322,31.25281,-85.73273,Daleville,AL,Alabama,Dale,United State Of America,US,USA,Location
+36323,31.4268,-86.07139,Elba,AL,Alabama,Coffee,United State Of America,US,USA,Location
+36330,31.30615,-85.8632,Enterprise,AL,Alabama,Coffee,United State Of America,US,USA,Location
+36340,31.05086,-85.89142,Geneva,AL,Alabama,Geneva,United State Of America,US,USA,Location
+36343,31.05905,-85.11599,Gordon,AL,Alabama,Houston,United State Of America,US,USA,Location
+36344,31.09822,-85.709,Hartford,AL,Alabama,Geneva,United State Of America,US,USA,Location
+36345,31.37526,-85.3083,Headland,AL,Alabama,Henry,United State Of America,US,USA,Location
+36346,31.55883,-85.92674,Jack,AL,Alabama,Coffee,United State Of America,US,USA,Location
+36350,31.34919,-85.4903,Midland City,AL,Alabama,Dale,United State Of America,US,USA,Location
+36351,31.41551,-85.91877,New Brockton,AL,Alabama,Coffee,United State Of America,US,USA,Location
+36352,31.25987,-85.61532,Newton,AL,Alabama,Houston,United State Of America,US,USA,Location
+36353,31.48285,-85.36605,Newville,AL,Alabama,Henry,United State Of America,US,USA,Location
+36360,31.46766,-85.6177,Ozark,AL,Alabama,Dale,United State Of America,US,USA,Location
+36362,31.35089,-85.69071,Fort Rucker,AL,Alabama,Dale,United State Of America,US,USA,Location
+36370,31.1424,-85.15679,Pansey,AL,Alabama,Houston,United State Of America,US,USA,Location
+36371,31.31335,-85.55199,Pinckard,AL,Alabama,Dale,United State Of America,US,USA,Location
+36373,31.52047,-85.10522,Shorterville,AL,Alabama,Henry,United State Of America,US,USA,Location
+36374,31.57873,-85.49368,Skipperville,AL,Alabama,Dale,United State Of America,US,USA,Location
+36375,31.07549,-85.53886,Slocomb,AL,Alabama,Geneva,United State Of America,US,USA,Location
+36376,31.25623,-85.27019,Webb,AL,Alabama,Houston,United State Of America,US,USA,Location
+36401,31.47366,-86.94931,Evergreen,AL,Alabama,Conecuh,United State Of America,US,USA,Location
+36420,31.17685,-86.57649,Andalusia,AL,Alabama,Covington,United State Of America,US,USA,Location
+36421,31.32473,-86.50656,Andalusia,AL,Alabama,Covington,United State Of America,US,USA,Location
+36425,31.75818,-87.1847,Beatrice,AL,Alabama,Monroe,United State Of America,US,USA,Location
+36426,31.14048,-87.07404,Brewton,AL,Alabama,Escambia,United State Of America,US,USA,Location
+36432,31.29375,-87.02763,Castleberry,AL,Alabama,Conecuh,United State Of America,US,USA,Location
+36435,31.88219,-87.4598,Coy,AL,Alabama,Wilcox,United State Of America,US,USA,Location
+36436,31.78537,-87.64954,Dickinson,AL,Alabama,Clarke,United State Of America,US,USA,Location
+36439,31.42396,-87.34222,Excel,AL,Alabama,Monroe,United State Of America,US,USA,Location
+36441,31.03642,-87.25584,Flomaton,AL,Alabama,Escambia,United State Of America,US,USA,Location
+36442,31.07156,-86.36268,Florala,AL,Alabama,Covington,United State Of America,US,USA,Location
+36444,31.66427,-87.45328,Franklin,AL,Alabama,Monroe,United State Of America,US,USA,Location
+36445,31.44247,-87.44745,Frisco City,AL,Alabama,Monroe,United State Of America,US,USA,Location
+36446,31.79245,-87.72,Fulton,AL,Alabama,Clarke,United State Of America,US,USA,Location
+36451,31.69909,-87.80271,Grove Hill,AL,Alabama,Clarke,United State Of America,US,USA,Location
+36453,31.19258,-86.15142,Kinston,AL,Alabama,Coffee,United State Of America,US,USA,Location
+36454,31.33328,-87.2006,Lenox,AL,Alabama,Conecuh,United State Of America,US,USA,Location
+36455,31.0129,-86.35181,Lockhart,AL,Alabama,Covington,United State Of America,US,USA,Location
+36456,31.56338,-86.81278,Mc Kenzie,AL,Alabama,Butler,United State Of America,US,USA,Location
+36460,31.52094,-87.30741,Monroeville,AL,Alabama,Monroe,United State Of America,US,USA,Location
+36467,31.28126,-86.25718,Opp,AL,Alabama,Covington,United State Of America,US,USA,Location
+36470,31.53803,-87.55087,Perdue Hill,AL,Alabama,Monroe,United State Of America,US,USA,Location
+36471,31.62618,-87.24302,Peterman,AL,Alabama,Monroe,United State Of America,US,USA,Location
+36473,31.30577,-87.21362,Range,AL,Alabama,Conecuh,United State Of America,US,USA,Location
+36474,31.4268,-86.61984,Red Level,AL,Alabama,Covington,United State Of America,US,USA,Location
+36475,31.38141,-87.22469,Repton,AL,Alabama,Conecuh,United State Of America,US,USA,Location
+36476,31.36303,-86.55096,River Falls,AL,Alabama,Covington,United State Of America,US,USA,Location
+36477,31.09522,-86.05575,Samson,AL,Alabama,Geneva,United State Of America,US,USA,Location
+36480,31.32707,-87.60794,Uriah,AL,Alabama,Monroe,United State Of America,US,USA,Location
+36481,31.80224,-87.36799,Vredenburgh,AL,Alabama,Monroe,United State Of America,US,USA,Location
+36482,31.63181,-87.64258,Whatley,AL,Alabama,Clarke,United State Of America,US,USA,Location
+36483,31.04301,-86.69173,Wing,AL,Alabama,Covington,United State Of America,US,USA,Location
+36502,31.14072,-87.49393,Atmore,AL,Alabama,Escambia,United State Of America,US,USA,Location
+36505,30.94264,-88.01644,Axis,AL,Alabama,Mobile,United State Of America,US,USA,Location
+36507,30.86319,-87.73904,Bay Minette,AL,Alabama,Baldwin,United State Of America,US,USA,Location
+36509,30.40205,-88.26156,Bayou La Batre,AL,Alabama,Mobile,United State Of America,US,USA,Location
+36511,30.31278,-87.74309,Bon Secour,AL,Alabama,Baldwin,United State Of America,US,USA,Location
+36512,30.99765,-88.01484,Bucks,AL,Alabama,Mobile,United State Of America,US,USA,Location
+36513,31.1718,-88.00338,Calvert,AL,Alabama,Washington,United State Of America,US,USA,Location
+36518,31.45453,-88.28395,Chatom,AL,Alabama,Washington,United State Of America,US,USA,Location
+36521,30.96477,-88.18115,Chunchula,AL,Alabama,Mobile,United State Of America,US,USA,Location
+36522,31.09177,-88.27136,Citronelle,AL,Alabama,Mobile,United State Of America,US,USA,Location
+36523,30.37698,-88.16717,Coden,AL,Alabama,Mobile,United State Of America,US,USA,Location
+36524,31.81424,-88.02109,Coffeeville,AL,Alabama,Clarke,United State Of America,US,USA,Location
+36525,30.89002,-88.018,Creola,AL,Alabama,Mobile,United State Of America,US,USA,Location
+36526,30.61297,-87.86137,Daphne,AL,Alabama,Baldwin,United State Of America,US,USA,Location
+36527,30.69823,-87.87328,Daphne,AL,Alabama,Baldwin,United State Of America,US,USA,Location
+36528,30.25255,-88.14385,Dauphin Island,AL,Alabama,Mobile,United State Of America,US,USA,Location
+36529,31.27779,-88.26572,Deer Park,AL,Alabama,Washington,United State Of America,US,USA,Location
+36530,30.4102,-87.55475,Elberta,AL,Alabama,Baldwin,United State Of America,US,USA,Location
+36532,30.48268,-87.86181,Fairhope,AL,Alabama,Baldwin,United State Of America,US,USA,Location
+36535,30.38545,-87.72618,Foley,AL,Alabama,Baldwin,United State Of America,US,USA,Location
+36538,31.66264,-88.13798,Frankville,AL,Alabama,Washington,United State Of America,US,USA,Location
+36539,31.33968,-88.38396,Fruitdale,AL,Alabama,Washington,United State Of America,US,USA,Location
+36540,31.44549,-87.66859,Gainestown,AL,Alabama,Clarke,United State Of America,US,USA,Location
+36541,30.49335,-88.34053,Grand Bay,AL,Alabama,Mobile,United State Of America,US,USA,Location
+36542,30.27726,-87.73714,Gulf Shores,AL,Alabama,Baldwin,United State Of America,US,USA,Location
+36543,31.22073,-87.46323,Huxford,AL,Alabama,Escambia,United State Of America,US,USA,Location
+36544,30.47443,-88.23288,Irvington,AL,Alabama,Mobile,United State Of America,US,USA,Location
+36545,31.4894,-87.87434,Jackson,AL,Alabama,Clarke,United State Of America,US,USA,Location
+36548,31.48752,-87.97159,Leroy,AL,Alabama,Washington,United State Of America,US,USA,Location
+36549,30.41373,-87.44852,Lillian,AL,Alabama,Baldwin,United State Of America,US,USA,Location
+36550,31.23746,-87.72114,Little River,AL,Alabama,Baldwin,United State Of America,US,USA,Location
+36551,30.63759,-87.75285,Loxley,AL,Alabama,Baldwin,United State Of America,US,USA,Location
+36553,31.241,-88.06928,Mc Intosh,AL,Alabama,Washington,United State Of America,US,USA,Location
+36555,30.39994,-87.77262,Magnolia Springs,AL,Alabama,Baldwin,United State Of America,US,USA,Location
+36556,31.20649,-87.97182,Malcolm,AL,Alabama,Washington,United State Of America,US,USA,Location
+36558,31.60774,-88.31852,Millry,AL,Alabama,Washington,United State Of America,US,USA,Location
+36559,30.56858,-87.90401,Montrose,AL,Alabama,Baldwin,United State Of America,US,USA,Location
+36560,31.09638,-88.04001,Mount Vernon,AL,Alabama,Mobile,United State Of America,US,USA,Location
+36561,30.28692,-87.57033,Orange Beach,AL,Alabama,Baldwin,United State Of America,US,USA,Location
+36562,31.0344,-87.66143,Perdido,AL,Alabama,Baldwin,United State Of America,US,USA,Location
+36564,30.47587,-87.92463,Point Clear,AL,Alabama,Baldwin,United State Of America,US,USA,Location
+36567,30.61476,-87.55985,Robertsdale,AL,Alabama,Baldwin,United State Of America,US,USA,Location
+36568,30.51279,-88.27257,Saint Elmo,AL,Alabama,Mobile,United State Of America,US,USA,Location
+36569,31.5425,-88.08932,Saint Stephens,AL,Alabama,Washington,United State Of America,US,USA,Location
+36571,30.84281,-88.09552,Saraland,AL,Alabama,Mobile,United State Of America,US,USA,Location
+36572,30.85842,-88.06048,Satsuma,AL,Alabama,Mobile,United State Of America,US,USA,Location
+36574,30.51521,-87.48075,Seminole,AL,Alabama,Baldwin,United State Of America,US,USA,Location
+36575,30.76898,-88.27273,Semmes,AL,Alabama,Mobile,United State Of America,US,USA,Location
+36576,30.52639,-87.76644,Silverhill,AL,Alabama,Baldwin,United State Of America,US,USA,Location
+36578,30.74771,-87.77877,Stapleton,AL,Alabama,Baldwin,United State Of America,US,USA,Location
+36579,31.10661,-87.79842,Stockton,AL,Alabama,Baldwin,United State Of America,US,USA,Location
+36580,30.48177,-87.70045,Summerdale,AL,Alabama,Baldwin,United State Of America,US,USA,Location
+36581,31.37321,-87.96134,Sunflower,AL,Alabama,Washington,United State Of America,US,USA,Location
+36582,30.51045,-88.17336,Theodore,AL,Alabama,Mobile,United State Of America,US,USA,Location
+36583,31.35528,-88.19768,Tibbie,AL,Alabama,Washington,United State Of America,US,USA,Location
+36584,31.19821,-88.38063,Vinegar Bend,AL,Alabama,Washington,United State Of America,US,USA,Location
+36585,31.38847,-88.07549,Wagarville,AL,Alabama,Washington,United State Of America,US,USA,Location
+36587,30.84259,-88.35492,Wilmer,AL,Alabama,Mobile,United State Of America,US,USA,Location
+36590,30.53177,-88.17439,Theodore,AL,Alabama,Mobile,United State Of America,US,USA,Location
+36602,30.69355,-88.04555,Mobile,AL,Alabama,Mobile,United State Of America,US,USA,Location
+36603,30.69062,-88.04362,Mobile,AL,Alabama,Mobile,United State Of America,US,USA,Location
+36604,30.6822,-88.06816,Mobile,AL,Alabama,Mobile,United State Of America,US,USA,Location
+36605,30.60789,-88.08977,Mobile,AL,Alabama,Mobile,United State Of America,US,USA,Location
+36606,30.6708,-88.10628,Mobile,AL,Alabama,Mobile,United State Of America,US,USA,Location
+36607,30.69859,-88.10575,Mobile,AL,Alabama,Mobile,United State Of America,US,USA,Location
+36608,30.68171,-88.29444,Mobile,AL,Alabama,Mobile,United State Of America,US,USA,Location
+36609,30.66091,-88.16318,Mobile,AL,Alabama,Mobile,United State Of America,US,USA,Location
+36610,30.73632,-88.0729,Mobile,AL,Alabama,Mobile,United State Of America,US,USA,Location
+36611,30.77045,-88.07808,Mobile,AL,Alabama,Mobile,United State Of America,US,USA,Location
+36612,30.75377,-88.11246,Mobile,AL,Alabama,Mobile,United State Of America,US,USA,Location
+36613,30.81177,-88.18099,Eight Mile,AL,Alabama,Mobile,United State Of America,US,USA,Location
+36615,30.63323,-88.06825,Mobile,AL,Alabama,Mobile,United State Of America,US,USA,Location
+36616,30.72453,-88.08153,Mobile,AL,Alabama,Mobile,United State Of America,US,USA,Location
+36617,30.71643,-88.09599,Mobile,AL,Alabama,Mobile,United State Of America,US,USA,Location
+36618,30.73595,-88.17346,Mobile,AL,Alabama,Mobile,United State Of America,US,USA,Location
+36619,30.59647,-88.19792,Mobile,AL,Alabama,Mobile,United State Of America,US,USA,Location
+36688,30.69621,-88.18224,Mobile,AL,Alabama,Mobile,United State Of America,US,USA,Location
+36693,30.62661,-88.14984,Mobile,AL,Alabama,Mobile,United State Of America,US,USA,Location
+36695,30.63011,-88.28067,Mobile,AL,Alabama,Mobile,United State Of America,US,USA,Location
+36701,32.47679,-87.05709,Selma,AL,Alabama,Dallas,United State Of America,US,USA,Location
+36703,32.43261,-86.91072,Selma,AL,Alabama,Dallas,United State Of America,US,USA,Location
+36720,32.1585,-87.34678,Alberta,AL,Alabama,Wilcox,United State Of America,US,USA,Location
+36722,32.09153,-87.57346,Arlington,AL,Alabama,Wilcox,United State Of America,US,USA,Location
+36723,32.06776,-87.2851,Boykin,AL,Alabama,Wilcox,United State Of America,US,USA,Location
+36726,31.97324,-87.29098,Camden,AL,Alabama,Wilcox,United State Of America,US,USA,Location
+36727,31.92124,-88.00801,Campbell,AL,Alabama,Clarke,United State Of America,US,USA,Location
+36728,32.16787,-87.47941,Catherine,AL,Alabama,Wilcox,United State Of America,US,USA,Location
+36732,32.42337,-87.9152,Demopolis,AL,Alabama,Marengo,United State Of America,US,USA,Location
+36736,32.05954,-87.77719,Dixons Mills,AL,Alabama,Marengo,United State Of America,US,USA,Location
+36738,32.42661,-87.6193,Faunsdale,AL,Alabama,Marengo,United State Of America,US,USA,Location
+36740,32.62732,-87.84017,Forkland,AL,Alabama,Greene,United State Of America,US,USA,Location
+36742,32.4643,-87.73798,Gallion,AL,Alabama,Marengo,United State Of America,US,USA,Location
+36744,32.69749,-87.59875,Greensboro,AL,Alabama,Hale,United State Of America,US,USA,Location
+36748,32.27558,-87.78483,Linden,AL,Alabama,Marengo,United State Of America,US,USA,Location
+36749,32.54319,-86.86168,Jones,AL,Alabama,Autauga,United State Of America,US,USA,Location
+36750,32.78696,-86.85061,Maplesville,AL,Alabama,Chilton,United State Of America,US,USA,Location
+36751,31.80802,-87.54523,Lower Peach Tree,AL,Alabama,Clarke,United State Of America,US,USA,Location
+36752,32.3001,-86.62155,Lowndesboro,AL,Alabama,Lowndes,United State Of America,US,USA,Location
+36753,31.81596,-87.08601,Mc Williams,AL,Alabama,Monroe,United State Of America,US,USA,Location
+36754,32.15406,-87.70088,Magnolia,AL,Alabama,Marengo,United State Of America,US,USA,Location
+36756,32.69351,-87.28014,Marion,AL,Alabama,Perry,United State Of America,US,USA,Location
+36758,32.6503,-86.89918,Plantersville,AL,Alabama,Dallas,United State Of America,US,USA,Location
+36759,32.42242,-87.28553,Marion Junction,AL,Alabama,Dallas,United State Of America,US,USA,Location
+36761,32.08455,-86.97494,Minter,AL,Alabama,Dallas,United State Of America,US,USA,Location
+36763,32.27107,-87.96572,Myrtlewood,AL,Alabama,Marengo,United State Of America,US,USA,Location
+36765,32.58281,-87.52277,Newbern,AL,Alabama,Hale,United State Of America,US,USA,Location
+36766,31.95509,-87.08677,Oak Hill,AL,Alabama,Wilcox,United State Of America,US,USA,Location
+36767,32.26011,-87.19071,Orrville,AL,Alabama,Dallas,United State Of America,US,USA,Location
+36768,31.90805,-87.02165,Pine Apple,AL,Alabama,Wilcox,United State Of America,US,USA,Location
+36769,31.99841,-87.53861,Pine Hill,AL,Alabama,Wilcox,United State Of America,US,USA,Location
+36773,32.261,-87.35878,Safford,AL,Alabama,Dallas,United State Of America,US,USA,Location
+36775,32.22924,-87.01662,Sardis,AL,Alabama,Dallas,United State Of America,US,USA,Location
+36776,32.74499,-87.74252,Sawyerville,AL,Alabama,Hale,United State Of America,US,USA,Location
+36782,32.12822,-87.91858,Sweet Water,AL,Alabama,Marengo,United State Of America,US,USA,Location
+36783,32.24724,-87.60102,Thomaston,AL,Alabama,Marengo,United State Of America,US,USA,Location
+36784,31.93985,-87.80012,Thomasville,AL,Alabama,Clarke,United State Of America,US,USA,Location
+36785,32.25267,-86.83672,Tyler,AL,Alabama,Lowndes,United State Of America,US,USA,Location
+36786,32.43969,-87.48806,Uniontown,AL,Alabama,Perry,United State Of America,US,USA,Location
+36790,32.73319,-86.89632,Stanton,AL,Alabama,Chilton,United State Of America,US,USA,Location
+36792,32.9216,-86.90595,Randolph,AL,Alabama,Bibb,United State Of America,US,USA,Location
+36793,32.81731,-87.02616,Lawley,AL,Alabama,Bibb,United State Of America,US,USA,Location
+36801,32.69173,-85.3972,Opelika,AL,Alabama,Lee,United State Of America,US,USA,Location
+36804,32.53347,-85.3422,Opelika,AL,Alabama,Lee,United State Of America,US,USA,Location
+36830,32.5389,-85.49207,Auburn,AL,Alabama,Lee,United State Of America,US,USA,Location
+36832,32.59621,-85.58197,Auburn,AL,Alabama,Lee,United State Of America,US,USA,Location
+36849,32.60241,-85.4873,Auburn University,AL,Alabama,Lee,United State Of America,US,USA,Location
+36850,32.78588,-85.65685,Camp Hill,AL,Alabama,Tallapoosa,United State Of America,US,USA,Location
+36852,32.75727,-85.2914,Cusseta,AL,Alabama,Lee,United State Of America,US,USA,Location
+36853,32.80723,-85.76793,Dadeville,AL,Alabama,Tallapoosa,United State Of America,US,USA,Location
+36854,32.75379,-85.18444,Valley,AL,Alabama,Chambers,United State Of America,US,USA,Location
+36855,33.03163,-85.30253,Five Points,AL,Alabama,Chambers,United State Of America,US,USA,Location
+36856,32.2766,-84.99898,Fort Mitchell,AL,Alabama,Russell,United State Of America,US,USA,Location
+36858,32.31552,-85.3207,Hatchechubbee,AL,Alabama,Russell,United State Of America,US,USA,Location
+36859,32.23258,-85.00448,Holy Trinity,AL,Alabama,Russell,United State Of America,US,USA,Location
+36860,32.25246,-85.41887,Hurtsboro,AL,Alabama,Russell,United State Of America,US,USA,Location
+36861,32.88567,-85.83259,Jacksons Gap,AL,Alabama,Tallapoosa,United State Of America,US,USA,Location
+36862,32.90442,-85.4418,Lafayette,AL,Alabama,Chambers,United State Of America,US,USA,Location
+36863,32.89515,-85.25508,Lanett,AL,Alabama,Chambers,United State Of America,US,USA,Location
+36865,32.60287,-85.58996,Loachapoka,AL,Alabama,Lee,United State Of America,US,USA,Location
+36866,32.55437,-85.71545,Notasulga,AL,Alabama,Macon,United State Of America,US,USA,Location
+36867,32.49662,-85.02347,Phenix City,AL,Alabama,Russell,United State Of America,US,USA,Location
+36869,32.42015,-85.07984,Phenix City,AL,Alabama,Russell,United State Of America,US,USA,Location
+36870,32.48402,-85.12018,Phenix City,AL,Alabama,Lee,United State Of America,US,USA,Location
+36871,32.18103,-85.15228,Pittsview,AL,Alabama,Russell,United State Of America,US,USA,Location
+36874,32.56556,-85.20573,Salem,AL,Alabama,Lee,United State Of America,US,USA,Location
+36875,32.33317,-85.17286,Seale,AL,Alabama,Russell,United State Of America,US,USA,Location
+36877,32.55869,-85.09875,Smiths Station,AL,Alabama,Lee,United State Of America,US,USA,Location
+36879,32.72836,-85.55882,Waverly,AL,Alabama,Lee,United State Of America,US,USA,Location
+36901,32.42547,-88.14741,Bellamy,AL,Alabama,Sumter,United State Of America,US,USA,Location
+36904,32.10204,-88.25861,Butler,AL,Alabama,Choctaw,United State Of America,US,USA,Location
+36907,32.43646,-88.34329,Cuba,AL,Alabama,Sumter,United State Of America,US,USA,Location
+36908,31.90115,-88.31017,Gilbertown,AL,Alabama,Choctaw,United State Of America,US,USA,Location
+36910,32.2046,-88.14694,Jachin,AL,Alabama,Choctaw,United State Of America,US,USA,Location
+36912,32.23516,-88.3045,Lisman,AL,Alabama,Choctaw,United State Of America,US,USA,Location
+36913,31.96095,-88.44709,Melvin,AL,Alabama,Choctaw,United State Of America,US,USA,Location
+36915,31.95508,-88.35871,Needham,AL,Alabama,Choctaw,United State Of America,US,USA,Location
+36916,32.20998,-88.05651,Pennington,AL,Alabama,Choctaw,United State Of America,US,USA,Location
+36919,31.76629,-88.29301,Silas,AL,Alabama,Choctaw,United State Of America,US,USA,Location
+36921,31.96814,-88.19167,Toxey,AL,Alabama,Choctaw,United State Of America,US,USA,Location
+36922,32.30379,-88.14721,Ward,AL,Alabama,Choctaw,United State Of America,US,USA,Location
+36925,32.4326,-88.1782,York,AL,Alabama,Sumter,United State Of America,US,USA,Location
