@@ -1,0 +1,417 @@
+[
+  {
+    "name": "NextCare Urgent Care",
+    "alternate_name": "NextCare Urgent Care",
+    "description": "At NextCare® Urgent Care , one of the nation's leading urgent care providers, we're there for you with quality health care you can trust when you need it the most. Daytime, evenings, weekends, holidays or after your doctor's office hours, our experienced, compassionate staff and health care providers offer same-day care in dedicated medical centers so you can get back to feeling better sooner.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-28",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "address": "1713 S Church Street",
+        "city": "Burlington",
+        "region": "region",
+        "state_province": "NC",
+        "postal_code": "27215",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "number": "336-222-8888",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "description"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "weekday": "Sunday",
+        "opens_at": "8:00 AM",
+        "closes_at": "2:00 PM"
+      },
+      {
+        "weekday": "Monday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "weekday": "Tuesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "weekday": "Wednesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "weekday": "Thursday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "weekday": "Friday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "NextCare Urgent Care",
+    "alternate_name": "NextCare Urgent Care",
+    "description": "At NextCare® Urgent Care , one of the nation's leading urgent care providers, we're there for you with quality health care you can trust when you need it the most. Daytime, evenings, weekends, holidays or after your doctor's office hours, our experienced, compassionate staff and health care providers offer same-day care in dedicated medical centers so you can get back to feeling better sooner.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-28",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "address": "1110 Kildaire Farm Rd",
+        "city": "Cary",
+        "region": "region",
+        "state_province": "NC",
+        "postal_code": "27215",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "number": "919-481-0277",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        "weekday": "Saturday",
+        "opens_at": "8:00 AM",
+        "closes_at": "2:00 PM"
+      },
+      {
+        "weekday": "Monday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "weekday": "Tuesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "weekday": "Wednesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "weekday": "Thursday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "weekday": "Friday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "organization_id": "1",
+    "name": "NextCare Urgent Care",
+    "alternate_name": "NextCare Urgent Care",
+    "description": "At NextCare® Urgent Care , one of the nation's leading urgent care providers, we're there for you with quality health care you can trust when you need it the most. Daytime, evenings, weekends, holidays or after your doctor's office hours, our experienced, compassionate staff and health care providers offer same-day care in dedicated medical centers so you can get back to feeling better sooner.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-28",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "address": "615 S Hughes Blvd",
+        "city": "Elizabeth City",
+        "region": "region",
+        "state_province": "NC",
+        "postal_code": "27511",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "number": "252-338-3111",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        "weekday": "Sunday",
+        "opens_at": "9:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "weekday": "Monday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "weekday": "Tuesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "weekday": "Wednesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "weekday": "Thursday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "weekday": "Friday",
+        "opens_at": "10:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "NextCare Urgent Care",
+    "alternate_name": "NextCare Urgent Care",
+    "description": "At NextCare® Urgent Care , one of the nation's leading urgent care providers, we're there for you with quality health care you can trust when you need it the most. Daytime, evenings, weekends, holidays or after your doctor's office hours, our experienced, compassionate staff and health care providers offer same-day care in dedicated medical centers so you can get back to feeling better sooner.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-28",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "address": "217 Glensford Dr",
+        "city": "Fayetteville",
+        "region": "region",
+        "state_province": "NC",
+        "postal_code": "27909",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "number": "910-483-4647",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        "weekday": "Sunday",
+        "opens_at": "8:00 AM",
+        "closes_at": "10:00 PM"
+      },
+      {
+        "weekday": "Monday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "weekday": "Tuesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "weekday": "Wednesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "weekday": "Thursday",
+        "opens_at": "8:00 AM",
+        "closes_at": "10:00 PM"
+      },
+      {
+        "weekday": "Friday",
+        "opens_at": "10:00 AM",
+        "closes_at": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "NextCare Urgent Care",
+    "alternate_name": "NextCare Urgent Care",
+    "description": "At NextCare® Urgent Care , one of the nation's leading urgent care providers, we're there for you with quality health care you can trust when you need it the most. Daytime, evenings, weekends, holidays or after your doctor's office hours, our experienced, compassionate staff and health care providers offer same-day care in dedicated medical centers so you can get back to feeling better sooner.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-28",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "address": "3680 Robinwood Rd",
+        "city": "Gastonia",
+        "region": "region",
+        "state_province": "NC",
+        "postal_code": "28314",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "number": "704-215-4057",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        "weekday": "Sunday",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:00 PM"
+      },
+      {
+        "weekday": "Monday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "weekday": "Tuesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "weekday": "Wednesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "weekday": "Thursday",
+        "opens_at": "8:00 AM",
+        "closes_at": "10:00 PM"
+      },
+      {
+        "weekday": "Friday",
+        "opens_at": "10:00 AM",
+        "closes_at": "4:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "NextCare Urgent Care",
+    "alternate_name": "NextCare Urgent Care",
+    "description": "At NextCare® Urgent Care , one of the nation's leading urgent care providers, we're there for you with quality health care you can trust when you need it the most. Daytime, evenings, weekends, holidays or after your doctor's office hours, our experienced, compassionate staff and health care providers offer same-day care in dedicated medical centers so you can get back to feeling better sooner.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-28",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "address": "4100 Wake Forest Rd",
+        "city": "Raleigh",
+        "region": "region",
+        "state_province": "NC",
+        "postal_code": "28054",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "number": "919-872-3959",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        "weekday": "Sunday",
+        "opens_at": "8:00 AM",
+        "closes_at": "2:00 PM"
+      },
+      {
+        "weekday": "Monday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "weekday": "Tuesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "weekday": "Wednesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "weekday": "Thursday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "weekday": "Friday",
+        "opens_at": "10:00 AM",
+        "closes_at": "2:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "NextCare Urgent Care",
+    "alternate_name": "NextCare Urgent Care",
+    "description": "At NextCare® Urgent Care , one of the nation's leading urgent care providers, we're there for you with quality health care you can trust when you need it the most. Daytime, evenings, weekends, holidays or after your doctor's office hours, our experienced, compassionate staff and health care providers offer same-day care in dedicated medical centers so you can get back to feeling better sooner.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-28",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "address": "419 Earl Rd",
+        "city": "Shelby",
+        "region": "region",
+        "state_province": "NC",
+        "postal_code": "27609",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "number": "704-481-0555",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        "weekday": "Sunday",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:00 PM"
+      },
+      {
+        "weekday": "Monday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "weekday": "Tuesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "weekday": "Wednesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "weekday": "Thursday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "weekday": "Friday",
+        "opens_at": "10:00 AM",
+        "closes_at": "4:00 PM"
+      }
+    ]
+  }
+]

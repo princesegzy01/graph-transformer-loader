@@ -1,0 +1,353 @@
+[
+  {
+    "name": "American Family Care Clinic-Prattville",
+    "alternate_name": "American Family Care Clinic-Prattville",
+    "description": "This is just the first entry into the system.Visit our urgent care center in Prattville & discover the difference American Family Care® can make! We're proud to offer medical care for your whole family.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-28",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "address": "1965 Cobbs Ford Road,",
+        "city": "Prattville",
+        "region": "State",
+        "state_province": "AL",
+        "postal_code": "36066",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+       
+        "number": "334-361-7054",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "description"
+      }
+    ],
+    "regular_schedule": [
+      {
+        
+        "weekday": "Sunday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        
+        "weekday": "Monday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+       
+        "weekday": "Tuesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        
+        "weekday": "Wednesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        
+        "weekday": "5",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+       
+        "weekday": "Friday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        
+        "weekday": "Saturday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      }
+    ]
+  },
+  {
+    
+    "name": "American Family Care Clinic-Wetumpka",
+    "alternate_name": "American Family Care Clinic-Wetumpka",
+    "description": "American Family Care® is proud to lead the nation in non-emergency care! Visit your local AFC for accessible & reliable medical urgent care in Wetumpka.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-28",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        
+        "address": "4452 Highway 231,",
+        "city": "Wetumpka",
+        "region": "State",
+        "state_province": "AL",
+        "postal_code": "36092",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        
+        "number": "334-472-3150",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        
+        "weekday": "Sunday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        
+        "weekday": "Monday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        
+        "weekday": "Tuesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+       
+        "weekday": "Wednesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        
+        "weekday": "5",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        
+        "weekday": "Friday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      }
+      
+    ]
+  },
+  {
+    
+    "name": "Quest Diagnostics and Walmart-Montgomery",
+    "alternate_name": "Quest Diagnostics and Walmart-Montgomery",
+    "description": "Not a Med-Stop managed Test Site. For Drug Test bring Med-Stop pre-printed Form or register for Electronic Collection.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-28",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+       
+        "address": "6495 Atlanta Highway,",
+        "city": "Montgomery",
+        "region": "State",
+        "state_province": "AL",
+        "postal_code": "36117",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        
+        "number": "866-448-7719",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        
+        "weekday": "Sunday",
+        "opens_at": "9:00 AM",
+        "closes_at": "4:00 PM"
+      },
+      {
+        
+        "weekday": "Monday",
+        "opens_at": "9:00 AM",
+        "closes_at": "4:00 PM"
+      },
+      {
+       
+        "weekday": "Tuesday",
+        "opens_at": "9:00 AM",
+        "closes_at": "4:00 PM"
+      },
+      {
+        
+        "weekday": "Wednesday",
+        "opens_at": "9:00 AM",
+        "closes_at": "4:00 PM"
+      },
+      {
+       
+        "weekday": "5",
+        "opens_at": "9:00 AM",
+        "closes_at": "4:00 PM"
+      },
+      {
+        
+        "weekday": "Friday",
+        "opens_at": "9:00 AM",
+        "closes_at": "4:00 PM"
+      }
+    ]
+  },
+  {
+   
+    "name": "Baptist Health Coronavirus Care Clinic",
+    "alternate_name": "Baptist Health Coronavirus Care Clinic",
+    "description": "Baptist Health is continuing to lead as a responsible corporate citizen by providing screening resources that equip and protect our patients and our communities.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-28",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        
+        "address": "2936 Marti Lane,",
+        "city": "Montgomery",
+        "region": "State",
+        "state_province": "AL",
+        "postal_code": "36116",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        
+        "number": "334-747-0150",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        
+        "weekday": "Sunday",
+        "opens_at": "7:00 AM",
+        "closes_at": "7:00 PM"
+      },
+      {
+        
+        "weekday": "Monday",
+        "opens_at": "7:00 AM",
+        "closes_at": "7:00 PM"
+      },
+      {
+        
+        "weekday": "Tuesday",
+        "opens_at": "7:00 AM",
+        "closes_at": "7:00 PM"
+      },
+      {
+       
+        "weekday": "Wednesday",
+        "opens_at": "7:00 AM",
+        "closes_at": "7:00 PM"
+      },
+      {
+        
+        "weekday": "5",
+        "opens_at": "7:00 AM",
+        "closes_at": "7:00 PM"
+      },
+      {
+        
+        "weekday": "Friday",
+        "opens_at": "7:00 AM",
+        "closes_at": "7:00 PM"
+      }
+    ]
+  },
+  {
+    
+    "name": "Main Street Family Care (Millbrook)",
+    "alternate_name": "Main Street Family Care (Millbrook)",
+    "description": "Open 7 days a week, MainStreet Family Urgent Care and Walk-In Clinic will help you heal and feel better fast, keeping you close to home.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-28",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        
+        "address": "1401 AL Hwy 14",
+        "city": "Millbrook",
+        "region": "State",
+        "state_province": "AL",
+        "postal_code": "36054",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        
+        "number": "334-310-6059",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        
+        "weekday": "Sunday",
+        "opens_at": "1:00 PM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        
+        "weekday": "Monday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        
+        "weekday": "Tuesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        
+        "weekday": "Wednesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        
+        "weekday": "5",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        
+        "weekday": "Friday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        
+        "weekday": "Saturday",
+        "opens_at": "9:00 AM",
+        "closes_at": "4:00 PM"
+      }
+    ]
+  }
+]

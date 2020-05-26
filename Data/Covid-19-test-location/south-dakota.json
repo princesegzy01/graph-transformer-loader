@@ -1,0 +1,66 @@
+[
+  {
+    "name": "No Locations Yet",
+    "alternate_name": "No Locations Yet",
+    "description": "This is just the first entry in the database. We still need to crowdsource some locations.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-03-31",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "address": "615 E 4th St,",
+        "city": "Pierre",
+        "region": "State",
+        "state_province": "SD",
+        "postal_code": "57501",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "number": "555-555-5555",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "description"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "weekday": "Sunday",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:00 PM"
+      },
+      {
+        "weekday": "Monday",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:00 PM"
+      },
+      {
+        "weekday": "Tuesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:00 PM"
+      },
+      {
+        "weekday": "Wednesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:00 PM"
+      },
+      {
+        "weekday": "Thursday",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:00 PM"
+      },
+      {
+        "weekday": "Friday",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:00 PM"
+      },
+      {
+        "weekday": "Saturday",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:00 PM"
+      }
+    ]
+  }
+]

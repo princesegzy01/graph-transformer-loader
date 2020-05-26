@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Alexandria Immediate Care",
+    "alternate_name": "Alexandria Immediate Care",
+    "description": "AllCare is offering telemedicine consults for patients who think they might have the coronavirus, followed by drive-through testing at certain locations.\n\nYou can schedule a video appointment here. The testing is done through your car window by a medical professional using a nasal or oral swab to take a sample for testing.\n\nMost insurers cover the test under a national emergency plan, AllCare says, but if you're uninsured, it will cost $206, which includes both the telemedicine consult and the testing. Results come back in 3 to 4 days, and you can receive them via text and email.",
+    "transportation": "Car",
+    "updated": "2020-03-31",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "address": "6020 Richmond Hwy, Suite 102",
+        "city": "Alexandria",
+        "region": "State",
+        "state_province": "VA",
+        "postal_code": "22303",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "number": "(571) 308-6776",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "description"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "weekday": "Sunday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "weekday": "Monday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "weekday": "Tuesday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "weekday": "Wednesday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "weekday": "Thursday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "weekday": "Friday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "weekday": "Saturday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  }
+]

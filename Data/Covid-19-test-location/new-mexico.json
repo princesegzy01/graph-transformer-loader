@@ -1,0 +1,554 @@
+[
+  {
+    "name": "Balloon Fiesta Park",
+    "alternate_name": "Balloon Fiesta Park",
+    "description": "Balloon Fiesta Museum Drive will be closed to northbound traffic from Alameda Blvd and drivers should not use San Mateo Blvd north of Alameda Blvd.",
+    "transportation": "Car",
+    "updated": "2020-04-02",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "address": "4401 Alameda Blvd NE",
+        "city": "Albuquerque",
+        "region": "NONE",
+        "state_province": "NM",
+        "postal_code": "87113",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "number": " +1 (505) 596-2200",
+        "extension": "None",
+        "type": "Hotline",
+        "language": "EN",
+        "description": "description"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "weekday": "Sunday",
+        "opens_at": "9:00 AM",
+        "closes_at": "7:00 PM"
+      },
+      {
+        
+        "weekday": "Monday",
+        "opens_at": "9:00 AM",
+        "closes_at": "7:00 PM"
+      },
+      {
+        
+        "weekday": "Tuesday",
+        "opens_at": "9:00 AM",
+        "closes_at": "7:00 PM"
+      },
+      {
+        
+        "weekday": "Wednesday",
+        "opens_at": "9:00 AM",
+        "closes_at": "7:00 PM"
+      },
+      {
+        
+        "weekday": "Thursday",
+        "opens_at": "9:00 AM",
+        "closes_at": "7:00 PM"
+      },
+      {
+        
+        "weekday": "Friday",
+        "opens_at": "9:00 AM",
+        "closes_at": "7:00 PM"
+      },
+      {
+        
+        "weekday": "Saturday",
+        "opens_at": "9:00 AM",
+        "closes_at": "7:00 PM"
+      }
+    ]
+  },
+  {
+    
+    "name": "Optum Urgent Care - Journal Center",
+    "alternate_name": "Optum Urgent Care - Journal Center",
+    "description": "Optum New Mexico March 27 is transitioning its three testing locations in the Albuquerque metro area to serve solely as Fever Upper Respiratory Infection (FURI) sites. This change will complement drive-through testing so that if a patient with COVID-19 symptoms requires additional care or a more in-depth medical evaluation, they will be brought into these clinics to receive that care.",
+    "transportation": "Car",
+    "updated": "2020-04-02",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        
+        "address": "5150 Journal Center Blvd NE",
+        "city": "Albuquerque",
+        "region": "NONE",
+        "state_province": "NM",
+        "postal_code": "87109",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        
+        "number": " +1 (505) 232-1010",
+        "extension": "None",
+        "type": "Hotline",
+        "language": "EN",
+        "description": "Pre-screening hotline"
+      }
+    ],
+    "regular_schedule": [
+      {
+        
+        "weekday": "Sunday",
+        "opens_at": "7:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        "weekday": "Monday",
+        "opens_at": "7:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        "weekday": "Tuesday",
+        "opens_at": "7:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        "weekday": "Wednesday",
+        "opens_at": "7:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        "weekday": "Thursday",
+        "opens_at": "7:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        "weekday": "Friday",
+        "opens_at": "7:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        "weekday": "Saturday",
+        "opens_at": "7:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  },
+  {
+   
+    "name": "Optum Urgent Care - Tramway",
+    "alternate_name": "Optum Urgent Care - Tramway",
+    "description": "Optum New Mexico March 27 is transitioning its three testing locations in the Albuquerque metro area to serve solely as Fever Upper Respiratory Infection (FURI) sites. This change will complement drive-through testing so that if a patient with COVID-19 symptoms requires additional care or a more in-depth medical evaluation, they will be brought into these clinics to receive that care.",
+    "transportation": "Car",
+    "updated": "2020-04-02",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        
+        "address": "13701 Encantado Rd NE",
+        "city": "Albuquerque",
+        "region": "NONE",
+        "state_province": "NM",
+        "postal_code": "87123",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        
+        "number": " +1 (505) 232-1010",
+        "extension": "None",
+        "type": "Hotline",
+        "language": "EN",
+        "description": "Pre-screening hotline"
+      }
+    ],
+    "regular_schedule": [
+      {
+        
+        "weekday": "Sunday",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:00 PM"
+      },
+      {
+        
+        "weekday": "Monday",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:00 PM"
+      },
+      {
+        
+        "weekday": "Tuesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:00 PM"
+      },
+      {
+        
+        "weekday": "Wednesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:00 PM"
+      },
+      {
+        
+        "weekday": "Thursday",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "Optum Urgent Care - Rio Rancho",
+    "alternate_name": "Optum Urgent Care - Rio Rancho",
+    "description": "Optum New Mexico March 27 is transitioning its three testing locations in the Albuquerque metro area to serve solely as Fever Upper Respiratory Infection (FURI) sites. This change will complement drive-through testing so that if a patient with COVID-19 symptoms requires additional care or a more in-depth medical evaluation, they will be brought into these clinics to receive that care.",
+    "transportation": "Car",
+    "updated": "2020-04-02",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        
+        "address": "1721 Rio Rancho Blvd SE",
+        "city": "Rio Rancho",
+        "region": "NONE",
+        "state_province": "NM",
+        "postal_code": "87124",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        
+        "number": " +1 (505) 232-1010",
+        "extension": "None",
+        "type": "Hotline",
+        "language": "EN",
+        "description": "Pre-screening hotline"
+      }
+    ],
+    "regular_schedule": [
+      {
+        
+        "weekday": "Sunday",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:00 PM"
+      },
+      {
+        
+        "weekday": "Monday",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:00 PM"
+      },
+      {
+        
+        "weekday": "Tuesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:00 PM"
+      },
+      {
+        
+        "weekday": "Wednesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:00 PM"
+      },
+      {
+        
+        "weekday": "Thursday",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "Gerald Champion Regional Medical Center",
+    "alternate_name": "Gerald Champion Regional Medical Center",
+    "description": "Call for an appointment: 575-443-7505",
+    "transportation": "Car",
+    "updated": "2020-04-02",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        
+        "address": "2669 N Scenic Dr.",
+        "city": "Alamogordo",
+        "region": "NONE",
+        "state_province": "NM",
+        "postal_code": "88310",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        
+        "number": " +1 575-443-7505",
+        "extension": "None",
+        "type": "Appointment Line",
+        "language": "EN",
+        "description": "Pre-screening hotline"
+      }
+    ],
+    "regular_schedule": []
+  },
+  {
+    "name": "Moreno Valley Healthcare",
+    "alternate_name": "Moreno Valley Healthcare",
+    "description": "Drive-thru testing. Referral required. People must call ahead, their case will be triaged by telephone.",
+    "transportation": "Car",
+    "updated": "2020-04-02",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        
+        "address": "11 Elliott Baker Ln.",
+        "city": "Angel Fire",
+        "region": "NONE",
+        "state_province": "NM",
+        "postal_code": "87710",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        
+        "number": " +1 (575) 377-3301",
+        "extension": "None",
+        "type": "Hotline",
+        "language": "EN",
+        "description": "Appointment Line"
+      }
+    ],
+    "regular_schedule": [
+      {
+        
+        "weekday": "Sunday",
+        "opens_at": "8:30:00 AM",
+        "closes_at": "1:00 PM"
+      },
+      {
+        
+        "weekday": "Sunday",
+        "opens_at": "2:00 PM",
+        "closes_at": "4:30:00 PM"
+      },
+      {
+        
+        "weekday": "Monday",
+        "opens_at": "8:30:00 AM",
+        "closes_at": "1:00 PM"
+      },
+      {
+        
+        "weekday": "Monday",
+        "opens_at": "2:00 PM",
+        "closes_at": "4:30:00 PM"
+      },
+      {
+        
+        "weekday": "Tuesday",
+        "opens_at": "8:30:00 AM",
+        "closes_at": "1:00 PM"
+      },
+      {
+        
+        "weekday": "Tuesday",
+        "opens_at": "2:00 PM",
+        "closes_at": "4:30:00 PM"
+      },
+      {
+        
+        "weekday": "Wednesday",
+        "opens_at": "8:30:00 AM",
+        "closes_at": "1:00 PM"
+      },
+      {
+        
+        "weekday": "Wednesday",
+        "opens_at": "2:00 PM",
+        "closes_at": "4:30:00 PM"
+      },
+      {
+        
+        "weekday": "Thursday",
+        "opens_at": "8:30:00 AM",
+        "closes_at": "1:00 PM"
+      },
+      {
+        
+        "weekday": "Thursday",
+        "opens_at": "2:00 PM",
+        "closes_at": "4:30:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "Cimarron Healthcare Clinic",
+    "alternate_name": "Cimarron Healthcare Clinic",
+    "description": "Drive-thru testing. People must call ahead, their case will be triaged by telephone.",
+    "transportation": "Car",
+    "updated": "2020-04-02",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        
+        "address": "356 9th St",
+        "city": "Cimarron",
+        "region": "NONE",
+        "state_province": "NM",
+        "postal_code": "87714",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        
+        "number": " +1 (575) 376-2402",
+        "extension": "None",
+        "type": "Hotline",
+        "language": "EN",
+        "description": "Pre-screening hotline"
+      }
+    ],
+    "regular_schedule": [
+      {
+        
+        "weekday": "Sunday",
+        "opens_at": "8:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        
+        "weekday": "Sunday",
+        "opens_at": "1:00 PM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        "weekday": "Monday",
+        "opens_at": "8:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        
+        "weekday": "Monday",
+        "opens_at": "1:00 PM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        "weekday": "Tuesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        
+        "weekday": "Tuesday",
+        "opens_at": "1:00 PM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        "weekday": "Wednesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        
+        "weekday": "Wednesday",
+        "opens_at": "1:00 PM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        "weekday": "Thursday",
+        "opens_at": "8:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        
+        "weekday": "Thursday",
+        "opens_at": "1:00 PM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "Union County General Hospital",
+    "alternate_name": "Union County General Hospital",
+    "description": "People will be assessed first by the phone, then they will be given directions to come to a quarantine area in the emergency room to determine what services are needed.",
+    "transportation": "Car",
+    "updated": "2020-04-02",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        
+        "address": "300 Wilson St.",
+        "city": "Clayton",
+        "region": "NONE",
+        "state_province": "NM",
+        "postal_code": "88415",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        
+        "number": " +1 (575) 374-2585",
+        "extension": "None",
+        "type": "Hotline",
+        "language": "EN",
+        "description": "Pre-screening hotline"
+      }
+    ],
+    "regular_schedule": [
+      {
+        
+        "weekday": "Sunday",
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        
+        "weekday": "Monday",
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        
+        "weekday": "Tuesday",
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        
+        "weekday": "Wednesday",
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        
+        "weekday": "Thursday",
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        
+        "weekday": "Friday",
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        
+        "weekday": "Saturday",
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Creekside Family Health Clinic",
+    "alternate_name": "Creekside Family Health Clinic",
+    "description": "Founded in 2008, Creekside Family Health Clinic has developed a strong reputation for quality, affordable, and accessible healthcare for the whole family. Our extended weekday and weekend hours, along with same-day and walk-in appointment availability, provide flexibility to our patients for access to care when they need it the most.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-28",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "address": "320 Bawden St #313",
+        "city": "Ketchikan",
+        "region": "State",
+        "state_province": "AK",
+        "postal_code": "99901",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        
+        "number": "(907) 220-9982",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "description"
+      }
+    ],
+    "regular_schedule": [
+      {
+        
+        "weekday": "2",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+      
+        "weekday": "3",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+      
+        "weekday": "4",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        
+        "weekday": "5",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        
+        "weekday": "6",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1844 @@
+[
+  {
+    "name": "Sugar House Health Center",
+    "alternate_name": "Sugar House Health Center",
+    "description": "After calling U of U Health’s coronavirus hotline, a patient who is presenting COVID-19 symptoms will either be scheduled a virtual urgent care appointment or be sent to a testing site for a drive-up evaluation, officials say.",
+    "transportation": "Car",
+    "updated": "2020-03-31",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "address": "1280 E Stringham Ave",
+        "city": "Salt Lake City",
+        "region": "none",
+        "state_province": "UT",
+        "postal_code": "84106",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "number": " +1 801-581-2000",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "description"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "weekday": "Sunday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "weekday": "Monday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "weekday": "Tuesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "weekday": "Wednesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "weekday": "Thursday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "weekday": "Friday",
+        "opens_at": "10:00 AM",
+        "closes_at": "3:00 PM"
+      },
+      {
+        "weekday": "Saturday",
+        "opens_at": "10:00 AM",
+        "closes_at": "3:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "South Jordan Health Center",
+    "alternate_name": "South Jordan Health Center",
+    "description": "University of Utah Health's South Jordan Health Center offers a full range of medical services for you and your family, including primary care, specialty care, and outpatient surgery.",
+    "transportation": "Car",
+    "updated": "2020-04-01",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "address": "5126 W Daybreak Pkwy",
+        "city": "South Jordan",
+        "region": "none",
+        "state_province": "UT",
+        "postal_code": "84009",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "number": " +1 801-213-4500",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        "weekday": "Sunday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "weekday": "Monday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "weekday": "Tuesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "weekday": "Wednesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "weekday": "Thursday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "weekday": "Friday",
+        "opens_at": "10:00 AM",
+        "closes_at": "3:00 PM"
+      },
+      {
+        "weekday": "Saturday",
+        "opens_at": "10:00 AM",
+        "closes_at": "3:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "Farmington Health Center",
+    "alternate_name": "Farmington Health Center",
+    "description": "Farmington Health Center is now open for both primary and specialty care. We provide complete care for you and your family by offering a range of services for patients of all ages, including family medicine and internal medicine, women's health services, and pharmacy services.",
+    "transportation": "Car",
+    "updated": "2020-04-01",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "address": "165 N University Ave",
+        "city": "Farmington",
+        "region": "none",
+        "state_province": "UT",
+        "postal_code": "84025",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "number": " +1 801-213-3200",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        "weekday": "Sunday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "weekday": "Monday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "weekday": "Tuesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "weekday": "Wednesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "weekday": "Thursday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "weekday": "Friday",
+        "opens_at": "10:00 AM",
+        "closes_at": "3:00 PM"
+      },
+      {
+        "weekday": "Saturday",
+        "opens_at": "10:00 AM",
+        "closes_at": "3:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "Redwood Health Center",
+    "alternate_name": "Redwood Health Center",
+    "description": "Located in South Salt Lake, our Redwood Health Center offers primary care services to care for your whole family, including internal and pediatric medicine as well as specialty care. We also have a pharmacy, eye center, and urgent care center.",
+    "transportation": "Car",
+    "updated": "2020-04-01",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "address": "1525 2100 S",
+        "city": "Salt Lake City",
+        "region": "none",
+        "state_province": "UT",
+        "postal_code": "84119",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "number": " +1 801-213-9900",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        "weekday": "Sunday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "weekday": "Monday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "weekday": "Tuesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "weekday": "Wednesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "weekday": "Thursday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "weekday": "Friday",
+        "opens_at": "10:00 AM",
+        "closes_at": "3:00 PM"
+      },
+      {
+        "weekday": "Saturday",
+        "opens_at": "10:00 AM",
+        "closes_at": "3:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "Park City/ Redstone Health Center",
+    "alternate_name": "Park City/ Redstone Health Center",
+    "description": "University of Utah Health's Redstone Health Center offers a range of medical services for you and your family including family and internal medicine and a variety of specialty care services.",
+    "transportation": "Car",
+    "updated": "2020-04-01",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "address": "1743 Redstone Center Dr",
+        "city": "Park City",
+        "region": "none",
+        "state_province": "UT",
+        "postal_code": "84098",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "number": " +1 435-658-9200",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        "weekday": "Sunday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "weekday": "Monday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "weekday": "Tuesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "weekday": "Wednesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "weekday": "Thursday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "weekday": "Friday",
+        "opens_at": "10:00 AM",
+        "closes_at": "3:00 PM"
+      },
+      {
+        "weekday": "Saturday",
+        "opens_at": "10:00 AM",
+        "closes_at": "3:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "Alta View InstaCare",
+    "alternate_name": "Alta View InstaCare",
+    "description": "The Alta View Clinic uses a team-based, personalized approach in delivering quality healthcare; coordinated by highly skilled, caring providers from Intermountain Medical Group.",
+    "transportation": "Car",
+    "updated": "2020-04-01",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "address": "9450 S 1300 E",
+        "city": "Sandy",
+        "region": "none",
+        "state_province": "UT",
+        "postal_code": "84094",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "number": " +1 801-501-2100",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        "weekday": "Sunday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "weekday": "Monday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "weekday": "Tuesday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "weekday": "Wednesday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "weekday": "Thursday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "weekday": "Friday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "weekday": "Saturday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "Bear River Clinic",
+    "alternate_name": "Bear River Clinic",
+    "description": "Our multi-specialty clinic provides compassionate care for every member of your family. We specialize in family medicine, general surgery, and women's health.",
+    "transportation": "Car",
+    "updated": "2020-04-01",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "address": "935 N 1000W",
+        "city": "Tremonton",
+        "region": "none",
+        "state_province": "UT",
+        "postal_code": "84337",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "number": " +1 435-207-4800",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        "weekday": "Sunday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "weekday": "Monday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "weekday": "Tuesday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "weekday": "Wednesday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "weekday": "Thursday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "weekday": "Friday",
+        "opens_at": "9:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        "weekday": "Saturday",
+        "opens_at": "-",
+        "closes_at": "-"
+      }
+    ]
+  },
+  {
+    "name": "Cedar City InstaCare",
+    "alternate_name": "Cedar City InstaCare",
+    "description": "Our multi-specialty clinic provides compassionate care for every member of your family. We specialize in family medicine, general surgery, and women's health.",
+    "transportation": "Car",
+    "updated": "2020-04-01",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "address": "962 Sage Dr",
+        "city": "Cedar City",
+        "region": "none",
+        "state_province": "UT",
+        "postal_code": "84720",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "number": " +1 435-865-3440",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        "weekday": "Sunday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "weekday": "Monday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "weekday": "Tuesday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "weekday": "Wednesday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "weekday": "Thursday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "weekday": "Friday",
+        "opens_at": "-",
+        "closes_at": "-"
+      },
+      {
+        "weekday": "Saturday",
+        "opens_at": "-",
+        "closes_at": "-"
+      }
+    ]
+  },
+  {
+    "name": "Cottonwood InstaCare",
+    "alternate_name": "Cottonwood InstaCare",
+    "description": "We are a multi-specialty clinic that provides compassionate care for every member of your family. Our board-certified doctors offer a broad spectrum of care, including family medicine, internal medicine, senior care, podiatry, ENT, rheumatology, diabetes and endocrinology services.",
+    "transportation": "Car",
+    "updated": "2020-04-01",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "address": "181 E Medical Tower Dr",
+        "city": "Murray",
+        "region": "none",
+        "state_province": "UT",
+        "postal_code": "84107",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "number": " +1 801-314-7777",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        "weekday": "Sunday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "weekday": "Monday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "weekday": "Tuesday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "weekday": "Wednesday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "weekday": "Thursday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "weekday": "Friday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "weekday": "Saturday",
+        "opens_at": "-",
+        "closes_at": "-"
+      }
+    ]
+  },
+  {
+    "name": "Ephraim Clinic",
+    "alternate_name": "Ephraim Clinic",
+    "description": "Our family medicine clinic provides compassionate care for every member of your family. Our board-certified family medicine doctors are committed to keeping you and your family healthy.",
+    "transportation": "Car",
+    "updated": "2020-04-01",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "address": "525 N Main St",
+        "city": "Ephraim",
+        "region": "none",
+        "state_province": "UT",
+        "postal_code": "84627",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "number": " +1 435-283-4076",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        "weekday": "Sunday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "weekday": "Monday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "weekday": "Tuesday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "weekday": "Wednesday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "weekday": "Thursday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "weekday": "Friday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "weekday": "Saturday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "Fillmore Clinic",
+    "alternate_name": "Fillmore Clinic",
+    "description": "Our multi-specialty clinic provides compassionate care for every member of your family. Our board-certified doctors specialize in family medicine, general surgery, urology, and women's health services.",
+    "transportation": "Car",
+    "updated": "2020-04-01",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "address": "700 S Highway 99",
+        "city": "Fillmore",
+        "region": "none",
+        "state_province": "UT",
+        "postal_code": "84631",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "number": " +1 435-743-5555",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        "weekday": "Sunday",
+        "opens_at": "9:00 AM",
+        "closes_at": "4:30:00 PM"
+      },
+      {
+        "weekday": "Monday",
+        "opens_at": "9:00 AM",
+        "closes_at": "4:30:00 PM"
+      },
+      {
+        "weekday": "Tuesday",
+        "opens_at": "9:00 AM",
+        "closes_at": "4:30:00 PM"
+      },
+      {
+        "weekday": "Wednesday",
+        "opens_at": "9:00 AM",
+        "closes_at": "4:30:00 PM"
+      },
+      {
+        "weekday": "Thursday",
+        "opens_at": "9:00 AM",
+        "closes_at": "4:30:00 PM"
+      },
+      {
+        "weekday": "Friday",
+        "opens_at": "-",
+        "closes_at": "-"
+      },
+      {
+        "weekday": "Saturday",
+        "opens_at": "-",
+        "closes_at": "-"
+      }
+    ]
+  },
+  {
+    "name": "Garfield Memorial Hospital",
+    "alternate_name": "Garfield Memorial Hospital",
+    "description": "We offer a comprehensive range of medical services to meet our community's needs.",
+    "transportation": "Car",
+    "updated": "2020-04-01",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "address": "200 N 400 E",
+        "city": "Panguitch",
+        "region": "none",
+        "state_province": "UT",
+        "postal_code": "84759",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "number": " +1 435-676-8811",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        "weekday": "Sunday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "weekday": "Monday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "weekday": "Tuesday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "weekday": "Wednesday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "weekday": "Thursday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "weekday": "Friday",
+        "opens_at": "-",
+        "closes_at": "-"
+      },
+      {
+        "weekday": "Saturday",
+        "opens_at": "-",
+        "closes_at": "-"
+      }
+    ]
+  },
+  {
+    "name": "Heber InstaCare",
+    "alternate_name": "Heber InstaCare",
+    "description": "Heber InstaCare provides licensed physicians and specialized staff that can handle all non-life-threatening urgent care needs, from sore throats and illnesses to cuts or broken bones.",
+    "transportation": "Car",
+    "updated": "2020-04-01",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "address": "1485 S Highway 50 Ste G",
+        "city": "Heber",
+        "region": "none",
+        "state_province": "UT",
+        "postal_code": "84032",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "number": " +1 435-657-4500",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        "weekday": "Sunday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "weekday": "Monday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "weekday": "Tuesday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "weekday": "Wednesday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "weekday": "Thursday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "weekday": "Friday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Saturday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  },
+  {
+   
+    
+    "name": "Layton Clinic",
+    "alternate_name": "Layton Clinic",
+    "description": "Our multi-specialty clinic provides compassionate care for every member of your family. Our board-certified doctors offer a broad spectrum of care, specializing in primary care and family medicine.",
+    "transportation": "Car",
+    "updated": "2020-04-01",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+       
+        
+        "address": "2075 N University Park Blvd",
+        "city": "Layton",
+        "region": "none",
+        "state_province": "UT",
+        "postal_code": "84041",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+       
+        
+        "number": " +1  801-779-6200",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        
+        
+        "weekday": "Sunday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Monday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Tuesday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Wednesday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Thursday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Friday",
+        "opens_at": "-",
+        "closes_at": "-"
+      },
+      {
+        
+        
+        "weekday": "Saturday",
+        "opens_at": "-",
+        "closes_at": "-"
+      }
+    ]
+  },
+  {
+   
+    
+    "name": "Lehi Clinic InstaCare",
+    "alternate_name": "Lehi Clinic InstaCare",
+    "description": "InstaCare is an excellent option for treatment when you need medical attention within 24 hours and the situation is not life-threatening. We offer expanded hours, including weekends and holidays.",
+    "transportation": "Car",
+    "updated": "2020-04-01",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+       
+        
+        "address": "3249 N 1200 W Ste A",
+        "city": "Lehi",
+        "region": "none",
+        "state_province": "UT",
+        "postal_code": "84043",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+       
+        
+        "number": " +1 801-753-4310",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        
+        
+        "weekday": "Sunday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Monday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Tuesday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Wednesday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Thursday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Friday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Saturday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  },
+  {
+   
+    
+    "name": "North Cache Valley InstaCare",
+    "alternate_name": "North Cache Valley InstaCare",
+    "description": "InstaCare is an excellent option for treatment when you need medical attention within 24 hours and the situation is not life-threatening. We offer expanded hours, including weekends and holidays.",
+    "transportation": "Car",
+    "updated": "2020-04-01",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+       
+        
+        "address": "4088 N HWY 91",
+        "city": "Hyde Park",
+        "region": "none",
+        "state_province": "UT",
+        "postal_code": "84318",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+       
+        
+        "number": " +1 435-563-4888",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        
+        
+        "weekday": "Sunday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Monday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Tuesday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Wednesday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Thursday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Friday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Saturday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  },
+  {
+   
+    
+    "name": "North Ogden InstaCare",
+    "alternate_name": "North Ogden InstaCare",
+    "description": "InstaCare is an excellent option for treatment when you need medical attention within 24 hours and the situation is not life-threatening. We offer expanded hours, including weekends and holidays.",
+    "transportation": "Car",
+    "updated": "2020-04-01",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+       
+        
+        "address": "2400 N Washington Blvd",
+        "city": "North Ogden",
+        "region": "none",
+        "state_province": "UT",
+        "postal_code": "84414",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+       
+        
+        "number": " +1 801-786-7500",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        
+        
+        "weekday": "Sunday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Monday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Tuesday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Wednesday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Thursday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Friday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Saturday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  },
+  {
+   
+    
+    "name": "Park City Ice Rink",
+    "alternate_name": "Park City Ice Rink",
+    "description": "The Park City Ice Arena is an indoor, year-round facility. The Olympic-size ice sheet offers a variety of activities including open skate sessions, private lessons, group skating classes, learn to play hockey classes, team building events and children’s camps.",
+    "transportation": "Car",
+    "updated": "2020-04-01",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+       
+        
+        "address": "600 Gillmor Way",
+        "city": "Park City",
+        "region": "none",
+        "state_province": "UT",
+        "postal_code": "84060",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+       
+        
+        "number": " +1 435-615-5707",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        
+        
+        "weekday": "Sunday",
+        "opens_at": "9:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Monday",
+        "opens_at": "9:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Tuesday",
+        "opens_at": "9:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Wednesday",
+        "opens_at": "9:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Thursday",
+        "opens_at": "9:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Friday",
+        "opens_at": "12:00 PM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Saturday",
+        "opens_at": "12:00 PM",
+        "closes_at": "6:00 PM"
+      }
+    ]
+  },
+  {
+   
+    "organization_id": "19",
+    "name": "River Road InstaCare",
+    "alternate_name": "River Road InstaCare",
+    "description": "InstaCare is an excellent option for treatment when you need medical attention within 24 hours and the situation is not life-threatening. We offer expanded hours, including weekends and holidays.",
+    "transportation": "Car",
+    "updated": "2020-04-01",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+       
+        
+        "address": "577 S River Road",
+        "city": "St. George",
+        "region": "none",
+        "state_province": "UT",
+        "postal_code": "84790",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+       
+        
+        "number": " +1 435-688-6000",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        
+        
+        "weekday": "Sunday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Monday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Tuesday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Wednesday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Thursday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Friday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Saturday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  },
+  {
+   
+    
+    "name": "Salt Lake InstaCare",
+    "alternate_name": "Salt Lake InstaCare",
+    "description": "InstaCare is an excellent option for treatment when you need medical attention within 24 hours and the situation is not life-threatening. We offer expanded hours, including weekends and holidays.",
+    "transportation": "Car",
+    "updated": "2020-04-01",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+       
+        
+        "address": "389 S 900 E",
+        "city": "Salt Lake City",
+        "region": "none",
+        "state_province": "UT",
+        "postal_code": "84102",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+       
+        
+        "number": " +1 385-282-2000",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        
+        
+        "weekday": "Sunday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Monday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Tuesday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Wednesday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Thursday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Friday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Saturday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  },
+  {
+   
+    
+    "name": "Sevier Valley Clinic",
+    "alternate_name": "Sevier Valley Clinic",
+    "description": "Our family medicine and internal medicine physicians provide high-quality care for your entire family. We specialize in adult medicine, senior care, immunizations, maternity care, pediatric care, preventive medicine, women's health, and more.",
+    "transportation": "Car",
+    "updated": "2020-04-01",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+       
+        
+        "address": "1000 N Main St Ste A",
+        "city": "Richfield",
+        "region": "none",
+        "state_province": "UT",
+        "postal_code": "84701",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+       
+        
+        "number": " +1 435-893-0580",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        
+        
+        "weekday": "Sunday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Monday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Tuesday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Wednesday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Thursday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Friday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Saturday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  },
+  {
+   
+    
+    "name": "Southridge InstaCare",
+    "alternate_name": "Southridge InstaCare",
+    "description": "InstaCare is an excellent option for treatment when you need medical attention within 24 hours and the situation is not life-threatening. We offer expanded hours, including weekends and holidays.",
+    "transportation": "Car",
+    "updated": "2020-04-23",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+       
+        
+        "address": "3723 W 12600 S Ste 150",
+        "city": "Riverton",
+        "region": "none",
+        "state_province": "UT",
+        "postal_code": "84065",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+       
+        
+        "number": " +1 801-285-4000",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        
+        
+        "weekday": "Sunday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Monday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Tuesday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Wednesday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Thursday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Friday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Saturday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  },
+  {
+   
+    
+    "name": "Springville InstaCare",
+    "alternate_name": "Springville InstaCare",
+    "description": "InstaCare is an excellent option for treatment when you need medical attention within 24 hours and the situation is not life-threatening. We offer expanded hours, including weekends and holidays.",
+    "transportation": "Car",
+    "updated": "2020-04-23",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+       
+        
+        "address": "762 W 400 S",
+        "city": "Springville",
+        "region": "none",
+        "state_province": "UT",
+        "postal_code": "84663",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+       
+        
+        "number": " +1 801-429-1250",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        
+        
+        "weekday": "Sunday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Monday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Tuesday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Wednesday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Thursday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Friday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Saturday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  },
+  {
+   
+    
+    "name": "Taylorsville InstaCare",
+    "alternate_name": "Taylorsville InstaCare",
+    "description": "InstaCare is an excellent option for treatment when you need medical attention within 24 hours and the situation is not life-threatening. We offer expanded hours, including weekends and holidays.",
+    "transportation": "Car",
+    "updated": "2020-04-27",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+       
+        
+        "address": "3845 W 4700 S",
+        "city": "Taylorsville",
+        "region": "none",
+        "state_province": "UT",
+        "postal_code": "84129",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+       
+        
+        "number": " +1 801-840-2000",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        
+        
+        "weekday": "Sunday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Monday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Tuesday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Wednesday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Thursday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Friday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Saturday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  },
+  {
+   
+    
+    "name": "Tooele InstaCare",
+    "alternate_name": "Tooele InstaCare",
+    "description": "InstaCare is an excellent option for treatment when you need medical attention within 24 hours and the situation is not life-threatening. We offer expanded hours, including weekends and holidays.",
+    "transportation": "Car",
+    "updated": "2020-04-27",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+       
+        
+        "address": "777 N Main St",
+        "city": "Tooele",
+        "region": "none",
+        "state_province": "UT",
+        "postal_code": "84074",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+       
+        
+        "number": " +1 435-228-1200",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        
+        
+        "weekday": "Sunday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Monday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Tuesday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Wednesday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Thursday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Friday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Saturday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  }
+]

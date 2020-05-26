@@ -1,0 +1,252 @@
+[
+  {
+    "name": "UC Health Precision Medicine Laboratory",
+    "alternate_name": "UC Health Precision Medicine Laboratory",
+    "description": "At UC Health, we not only lead the region in breakthroughs, we embrace a spirit of purpose – allowing us to offer our patients and their families something that surpasses traditional healthcare providers. At UC Health, we offer hope.",
+    "transportation": "Car",
+    "updated": "2020-03-31",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        
+       
+        "address": "234 Goodman Street",
+        "city": "Cincinnati",
+        "region": "none",
+        "state_province": "OH",
+        "postal_code": "43215",
+        "country": "USA"
+      }
+    ],
+    "phones": [
+      {
+        
+       
+        "number": " +1 513-584-1000",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "description"
+      }
+    ],
+    "regular_schedule": [
+      {
+        
+       
+        "weekday": "Sunday",
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        
+       
+        "weekday": "Monday",
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        
+       
+        "weekday": "Tuesday",
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        
+       
+        "weekday": "Wednesday",
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        
+       
+        "weekday": "Thursday",
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        
+       
+        "weekday": "Friday",
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        
+       
+        "weekday": "Saturday",
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
+      }
+    ]
+  },
+  {
+    
+    
+    "name": "Cleveland Clinic",
+    "alternate_name": "Cleveland Clinic",
+    "description": "Cleveland Clinic is one of the largest and most respected hospitals in the country. Our mission is to provide better care of the sick, investigation into their problems, and further education of those who serve.",
+    "transportation": "Car",
+    "updated": "2020-04-27",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        
+       
+        "address": "10524 Euclid Avenue",
+        "city": "Cleveland",
+        "region": "none",
+        "state_province": "OH",
+        "postal_code": "44195",
+        "country": "USA"
+      }
+    ],
+    "phones": [
+      {
+        
+       
+        "number": " +1 216-444-2200",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        
+       
+        "weekday": "Sunday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+       
+        "weekday": "Monday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+       
+        "weekday": "Tuesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+       
+        "weekday": "Wednesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+       
+        "weekday": "Thursday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+       
+        "weekday": "Friday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+       
+        "weekday": "Saturday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  },
+  {
+    
+    
+    "name": "University Hospital",
+    "alternate_name": "UH",
+    "description": "University Hospitals is one of the nation’s leading health care systems, providing patient-centered care that meets the highest standards for quality and patient safety and have received numerous awards and recognitions from some of the most prestigious institutions in the country for our leadership and exceptional patient outcomes. ",
+    "transportation": "Car",
+    "updated": "2020-04-27",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        
+       
+        "address": "5850 Landerbrook Dr",
+        "city": "Mayfield Heights",
+        "region": "none",
+        "state_province": "OH",
+        "postal_code": "44124",
+        "country": "USA"
+      }
+    ],
+    "phones": [
+      {
+        
+       
+        "number": " +1 216-259-8954",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        
+       
+        "weekday": "Sunday",
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        
+       
+        "weekday": "Monday",
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        
+       
+        "weekday": "Tuesday",
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        
+       
+        "weekday": "Wednesday",
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        
+       
+        "weekday": "Thursday",
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        
+       
+        "weekday": "Friday",
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        
+       
+        "weekday": "Saturday",
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
+      }
+    ]
+  }
+]

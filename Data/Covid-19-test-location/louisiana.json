@@ -1,0 +1,312 @@
+[
+  {
+    "name": "Rapides Urgent Care - Alexandria",
+    "alternate_name": "Rapides Urgent Care - Alexandria",
+    "description": "This is just the first entry in the database. We still need to crowdsource some locations.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-28",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "address": "3800 Jackson Street Ext",
+        "city": "Alexandria",
+        "region": "Region",
+        "state_province": "LA",
+        "postal_code": "71301",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "number": "(318) 767-9015",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "description"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "weekday": "Sunday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "weekday": "Monday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "weekday": "Tuesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "weekday": "Wednesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "weekday": "Thursday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "weekday": "Friday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "weekday": "Saturday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "Alexandria Va Health Care System",
+    "alternate_name": "Alexandria Va Health Care System",
+    "description": "Alexandria, Louisiana VAMC provides health care services to veterans in central Louisiana.  VAMC Alexandria also has Community Based Outpatient Clinics (CBOC) in Lafayette, LA, Jennings, Louisiana, and Natchitoches, LA.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-29",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "address": "2495 Shreveport Highway",
+        "city": "Pineville",
+        "region": "Region",
+        "state_province": "LA",
+        "postal_code": "71360",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "number": "(800) 375-8387",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "weekday": "Monday",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:00 PM"
+      },
+      {
+        "weekday": "Tuesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:00 PM"
+      },
+      {
+        "weekday": "Wednesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:00 PM"
+      },
+      {
+        "weekday": "Thursday",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:00 PM"
+      },
+      {
+        "weekday": "Friday",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "Riverside Hospital of Louisiana",
+    "alternate_name": "Riverside Hospital of Louisiana",
+    "description": "Riverside Hospital specializes in treating medically complex patients who may require an extended acute care stay guided by an aggressive, interdisciplinary approach.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-30",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "address": "211 4th Street ",
+        "city": "Alexandria",
+        "region": "Region",
+        "state_province": "LA",
+        "postal_code": "71301",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "number": "(318) 767-2900",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "weekday": "Sunday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "weekday": "Monday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "weekday": "Tuesday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "weekday": "Wednesday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "weekday": "Thursday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "weekday": "Friday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        "weekday": "Saturday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "CHRISTUS Community Clinic",
+    "alternate_name": "CHRISTUS Community Clinic",
+    "description": "As part of our ongoing commitment to the health and wellness of our communities, we partner with you to maintain your health with preventive care and treatment of illnesses and injuries.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-05-01",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "address": "3351 Masonic Dr",
+        "city": "Alexandria",
+        "region": "Region",
+        "state_province": "LA",
+        "postal_code": "71301",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "number": "(318) 448-6800",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "weekday": "Sunday",
+        "opens_at": "2:00 PM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "weekday": "Monday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "weekday": "Tuesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "weekday": "Wednesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "weekday": "Thursday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "weekday": "Friday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "weekday": "Saturday",
+        "opens_at": "10:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "HP Long Urgent Care - Pineville",
+    "alternate_name": "HP Long Urgent Care - Pineville",
+    "description": "HP Long Urgent Care is proud to offer accessible, exceptional healthcare to Central Louisiana’s uninsured and Medicaid population. We offer personalized medical attention in comfortable, state-of-the-art facilities in Pineville.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-05-02",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "address": "213 Hospital Blvd",
+        "city": "Pineville",
+        "region": "Region",
+        "state_province": "LA",
+        "postal_code": "71360",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "number": "(318) 769-5664",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "weekday": "Sunday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "weekday": "Monday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "weekday": "Tuesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "weekday": "Wednesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "weekday": "Thursday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "weekday": "Friday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "weekday": "Saturday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      }
+    ]
+  }
+]

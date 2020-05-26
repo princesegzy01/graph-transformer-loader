@@ -1,0 +1,245 @@
+[
+  {
+    
+    
+    "name": "Kalihi Kai Urgent Care",
+    "alternate_name": "Ewa Mahiko District Park",
+    "description": "On Oahu, Kalihi Kai Urgent Care will be conducting testing at ʻEwa Mahiko District Park in ʻEwa Beach on Friday. Testing will run from 8 a.m. to 2 p.m. Those seeking a test should enter the line from Kapolei Parkway on the corner of Renton Road, facing mauka, where a screening station will be set up. For additional information, call Kalihi Kai Urgent Care at 808-841-2273.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-28",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        
+       
+        "address": "91-1205 Renton Rd",
+        "city": "Ewa Beach",
+        "region": "Region",
+        "state_province": "HI",
+        "postal_code": "96706",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        
+       
+        "number": "808-841-2273",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "description"
+      }
+    ],
+    "regular_schedule": [
+      {
+        
+       
+        "weekday": "Friday",
+        "opens_at": "8:00 AM",
+        "closes_at": "2:00 PM"
+      }
+    ]
+  },
+  {
+    
+    
+    "name": "Premier Medical Group Hawaii",
+    "alternate_name": "Kahuku Medical Center",
+    "description": "Premier Medical Group Hawaii will administer free drive-thru testing Saturday in the rear parking lot of Kahuku Medical Center, 56-117 Pualalea St. Testing will also be available Sunday at Waimanalo District Park. Motorists may access the park from Hihimanu Street. Testing at both sites will be conducted from 9 a.m. to 1 p.m. For more information, call Premier Medical Group Hawaii at 808-304-8816 or 808-367-6020.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-28",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        
+       
+        "address": "56-117 Pualalea St",
+        "city": "Kahuku",
+        "region": "Region",
+        "state_province": "HI",
+        "postal_code": "96731",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        
+       
+        "number": "808-304-8816",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary"
+      }
+    ],
+    "regular_schedule": [
+      {
+        
+       
+        "weekday": "Sunday",
+        "opens_at": "9:00 AM",
+        "closes_at": "1:00 PM"
+      }
+    ]
+  },
+  {
+    
+    
+    "name": "Premier Medical Group Hawaii",
+    "alternate_name": "Waimanalo District Park",
+    "description": "Premier Medical Group Hawaii will administer free drive-thru testing Saturday in the rear parking lot of Kahuku Medical Center, 56-117 Pualalea St. Testing will also be available Sunday at Waimanalo District Park. Motorists may access the park from Hihimanu Street. Testing at both sites will be conducted from 9 a.m. to 1 p.m. For more information, call Premier Medical Group Hawaii at 808-304-8816 or 808-367-6020.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-28",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        
+       
+        "address": "41-415 Hihimanu St,",
+        "city": "Waimanalo",
+        "region": "Region",
+        "state_province": "HI",
+        "postal_code": "96795",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        
+       
+        "number": "808-304-8816",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary"
+      }
+    ],
+    "regular_schedule": [
+      {
+        
+       
+        "weekday": "Sunday",
+        "opens_at": "9:00 AM",
+        "closes_at": "1:00 PM"
+      }
+    ]
+  },
+  {
+    
+    
+    "name": "Windward Urgent Care",
+    "alternate_name": "Walgreens Kaneohe",
+    "description": "Windward Urgent Care: testing will be available at a drive through station open at Walgreens Kaneohe, call (808) 234-1094 head of time.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-28",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        
+       
+        "address": "46-021 Kamehameha Hwy",
+        "city": "Kaneohe",
+        "region": "Region",
+        "state_province": "HI",
+        "postal_code": "96744",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        
+       
+        "number": "(808) 234-1094",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary"
+      }
+    ],
+    "regular_schedule": [
+      {
+        
+       
+        "weekday": "Monday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+       
+        "weekday": "Tuesday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+       
+        "weekday": "Wednesday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+       
+        "weekday": "Thursday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+       
+        "weekday": "Friday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+       
+        "weekday": "Sunday",
+        "opens_at": "12:00 AM",
+        "closes_at": "12:00 PM"
+      },
+      {
+        
+       
+        "weekday": "Saturday",
+        "opens_at": "12:00 PM",
+        "closes_at": "12:00 PM"
+      }
+    ]
+  },
+  {
+    
+    
+    "name": "‍The Queen’s Medical Center-Punchbowl",
+    "alternate_name": "‍The Queen’s Medical Center-Punchbowl",
+    "description": "‍Queen’s Medical Center (Punchbowl and West Oahu): Call the Queen’s Medical physician hotline — (808) 691-2619 — for information on testing. If you’re experiencing shortness of breath, call 911.",
+    "transportation": "Bus, Uber, Car",
+    "updated": "2020-04-28",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        
+        "address": "1301 Punchbowl St,",
+        "city": "Honolulu",
+        "region": "Region",
+        "state_province": "HI",
+        "postal_code": "96813",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        
+        
+        "number": "(808) 691-1000",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary"
+      }
+    ],
+    "regular_schedule": []
+  }
+]

@@ -1,0 +1,370 @@
+[
+  {
+    "name": "St. Lukes Meridian Hospital",
+    "alternate_name": "St. Luke's Meridian",
+    "description": "Meridian: Drive-up tent screening and specimen collection for testing is available at St. Luke's Meridian hospital, 520 S. Eagle Rd, Meridian, ID 83642, Monday to Sunday, 10 a.m. to 6 p.m",
+    "transportation": "Car",
+    "updated": "2020-04-02",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "address": "20 S. Eagle Rd",
+        "city": "Meridian",
+        "region": "none",
+        "state_province": "ID",
+        "postal_code": "83642",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "number": " +1 (208) 706-5000",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "description"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "weekday": "Sunday",
+        "opens_at": "10:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "weekday": "Monday",
+        "opens_at": "10:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "weekday": "Tuesday",
+        "opens_at": "10:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "weekday": "Wednesday",
+        "opens_at": "10:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "weekday": "Thursday",
+        "opens_at": "10:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "weekday": "Friday",
+        "opens_at": "10:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "weekday": "Saturday",
+        "opens_at": "10:00 AM",
+        "closes_at": "6:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "St. Luke's Plaza - Boise",
+    "alternate_name": "St. Luke's Plaza",
+    "description": "Drive-up tent screening and specimen collection for testing is available on the north side of St. Luke's Plaza campus building",
+    "transportation": "Car",
+    "updated": "2020-04-02",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "address": "800 E. Park Blvd",
+        "city": "Boise",
+        "region": "none",
+        "state_province": "ID",
+        "postal_code": "83712",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "number": " +1 (208) 381-4100",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        "weekday": "Sunday",
+        "opens_at": "10:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "weekday": "Monday",
+        "opens_at": "10:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "weekday": "Tuesday",
+        "opens_at": "10:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "weekday": "Wednesday",
+        "opens_at": "10:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "weekday": "Thursday",
+        "opens_at": "10:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "weekday": "Friday",
+        "opens_at": "10:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "weekday": "Saturday",
+        "opens_at": "10:00 AM",
+        "closes_at": "6:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "St. Luke's McCall Medical Center",
+    "alternate_name": "St. Luke's McCall Medical Center",
+    "description": "To help manage the flow of traffic, the parking lot is to be accessed from Forest Street. The east driveway, adjacent to the hospital, will be the entrance and the west driveway, adjacent to the clinic, will be the exit. All patients, visitors and contractors will be greeted at their car before entering the St. Luke’s hospital and clinic parking lot from 8 a.m. to 6 p.m., Monday to Friday and 9 a.m. to 3 p.m. on Saturdays and Sundays. Suspected COVID-19 patients will be screened at their cars by appointment only and, if needed, have a sample collected for testing. To make an appointment call 208-634-1776.",
+    "transportation": "Car",
+    "updated": "2020-04-02",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "address": "1000 State St",
+        "city": "McCall",
+        "region": "none",
+        "state_province": "ID",
+        "postal_code": "83638",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "number": " +1 208-634-1776",
+        "extension": "None",
+        "type": "Appointment Line",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        "weekday": "Sunday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "weekday": "Monday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "weekday": "Tuesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "weekday": "Wednesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "weekday": "Thursday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "weekday": "Friday",
+        "opens_at": "9:00 AM",
+        "closes_at": "3:00 PM"
+      },
+      {
+        "weekday": "Saturday",
+        "opens_at": "9:00 AM",
+        "closes_at": "3:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "St. Luke's Surgery Center at the Magic Valley",
+    "alternate_name": "St. Luke's Surgery Center at the Magic Valley",
+    "description": "Drive-up tent screening and specimen collection for testing will be available at St. Luke's Surgery Center at the Magic Valley campus, 575 Pole Line Rd. W., Twin Falls, ID, 83301, Monday to Sunday, 10 a.m. to 6 p.m.",
+    "transportation": "Car",
+    "updated": "2020-04-02",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "address": "575 Pole Line Rd. W.",
+        "city": "Twin Falls",
+        "region": "none",
+        "state_province": "ID",
+        "postal_code": "83301",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "number": " +1 (208) 814-9200",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Appointment line from website"
+      }
+    ],
+    "regular_schedule": [
+      {
+        "weekday": "Sunday",
+        "opens_at": "10:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "weekday": "Monday",
+        "opens_at": "10:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "weekday": "Tuesday",
+        "opens_at": "10:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "weekday": "Wednesday",
+        "opens_at": "10:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "weekday": "Thursday",
+        "opens_at": "10:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "weekday": "Friday",
+        "opens_at": "10:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        "weekday": "Saturday",
+        "opens_at": "10:00 AM",
+        "closes_at": "6:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "North Nampa - Saltzer Health",
+    "alternate_name": "North Nampa - Saltzer Health",
+    "description": "Curbside screening and specimen collection for testing available at both Saltzer locations in Nampa. Saltzer patients can contact 208-463-3000 and press 7 for nurse triage.",
+    "transportation": "Car",
+    "updated": "2020-04-02",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        "address": "9850 W. St. Luke’s Drive",
+        "city": "Nampa",
+        "region": "none",
+        "state_province": "ID",
+        "postal_code": "83687",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": [
+      {
+        "weekday": "Sunday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "weekday": "Monday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "weekday": "Tuesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "weekday": "Wednesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "weekday": "Thursday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "weekday": "Friday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "weekday": "Saturday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "South Nampa - Saltzer Health",
+    "alternate_name": "North Nampa - Saltzer Health",
+    "description": "Curbside screening and specimen collection for testing available at both Saltzer locations in Nampa. Saltzer patients can contact 208-463-3000 and press 7 for nurse triage.",
+    "transportation": "Car",
+    "updated": "2020-04-02",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "address": "215 E. Hawaii Ave",
+        "city": "Nampa",
+        "region": "none",
+        "state_province": "ID",
+        "postal_code": "83686",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": [
+      {
+        "weekday": "Sunday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "weekday": "Monday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "weekday": "Tuesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "weekday": "Wednesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "weekday": "Thursday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "weekday": "Friday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        "weekday": "Saturday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      }
+    ]
+  }
+]

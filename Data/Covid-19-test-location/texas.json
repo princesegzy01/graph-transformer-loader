@@ -1,0 +1,1602 @@
+[
+  {
+    
+    
+    "name": "Dallas Victor Plaza Testing Site",
+    "alternate_name": "Dallas Victor Plaza Testing Site",
+    "description": "Criteria for testing sites is as follows:\n\n- Must be 6+ years-old; or\n- Must be a first responder; or\n- Must be a healthcare worker; or\n- Must be a DART driver; AND\n- Must show a temperature of 99.6 or higher",
+    "transportation": "CAR",
+    "updated": "2020-04-01",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        
+        
+        "address": "9191 S Polk Street",
+        "city": "Dallas",
+        "region": "NONE",
+        "state_province": "TX",
+        "postal_code": "75232",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        
+        
+        "number": "None",
+        "extension": "None",
+        "type": "None",
+        "language": "None",
+        "description": "description"
+      }
+    ],
+    "regular_schedule": [
+      {
+        
+        
+        "weekday": "Sunday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Monday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Tuesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Wednesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Thursday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Friday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Saturday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      }
+    ]
+  },
+  {
+    
+    
+    "name": "Dallas Polk Street Testing Site",
+    "alternate_name": "Dallas Polk Street Testing Site",
+    "description": "Criteria for testing sites is as follows:\n\n- Must be 6+ years-old; or\n- Must be a first responder; or\n- Must be a healthcare worker; or\n- Must be a DART driver; AND\n- Must show a temperature of 99.6 or higher",
+    "transportation": "CAR",
+    "updated": "2020-04-01",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        
+        
+        "address": "2500 Victory Avenue",
+        "city": "Dallas",
+        "region": "NONE",
+        "state_province": "TX",
+        "postal_code": "75201",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        
+        
+        "number": "None",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "None"
+      }
+    ],
+    "regular_schedule": [
+      {
+        
+        
+        "weekday": "Sunday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Monday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Tuesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Wednesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {        
+        "weekday": "Thursday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Friday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Saturday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "Round Rock - Baylor Scott & White Clinic",
+    "alternate_name": "Baylor Scott & White Clinic - Round Rock 425 University",
+    "description": "We are encouraging all patients experiencing flu-like symptoms (cough, shortness of breath and feeling feverish) to first visit MyBSWHealth for a free online COVID-19 screening.",
+    "transportation": "CAR",
+    "updated": "2020-04-01",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        
+        
+        "address": "425 University Blvd",
+        "city": "Round Rock",
+        "region": "NONE",
+        "state_province": "TX",
+        "postal_code": "78665",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        
+        
+        "number": " +1 512.509.0200",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        
+        
+        "weekday": "Sunday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Monday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Tuesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Wednesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Thursday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "Austin - Baylor Scott & White Medical Center",
+    "alternate_name": "Baylor Scott & White Medical Center - Austin",
+    "description": "We are encouraging all patients experiencing flu-like symptoms (cough, shortness of breath and feeling feverish) to first visit MyBSWHealth for a free online COVID-19 screening.",
+    "transportation": "CAR",
+    "updated": "2020-04-01",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        
+        
+        "address": "5251 W. US Hwy 290",
+        "city": "Austin",
+        "region": "NONE",
+        "state_province": "TX",
+        "postal_code": "78735",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        
+        
+        "number": " +1 512.654.2100",
+        "extension": "None",
+        "type": "Hospital",
+        "language": "EN",
+        "description": "Clinic number from website"
+      }
+    ],
+    "regular_schedule": [
+      {
+        
+        
+        "weekday": "Sunday",
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Monday",
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Tuesday",
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Wednesday",
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Thursday",
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Friday",
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Saturday",
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "UT Health Austin",
+    "alternate_name": "University of Texas at Austin",
+    "description": "Due to the limited number of COVID-19 tests available to all health care organizations, UT Health Austin COVID-19 (coronavirus) drive-through testing focuses on health care workers, patients who are known contacts of people who tested positive for COVID-19 through a test performed by UT Health Austin, and high-risk individuals who are referred to us by Austin Public Health and our partners in the Ascension/Seton system.",
+    "transportation": "CAR",
+    "updated": "2020-04-01",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        
+        
+        "address": "1601 Trinity St",
+        "city": "Austin",
+        "region": "NONE",
+        "state_province": "TX",
+        "postal_code": "78712",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        
+        
+        "number": " +1 (833) 882-2737",
+        "extension": "None",
+        "type": "Office",
+        "language": "EN",
+        "description": "Main hospital number"
+      }
+    ],
+    "regular_schedule": [
+      {
+        
+        
+        "weekday": "Sunday",
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Monday",
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Tuesday",
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Wednesday",
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Thursday",
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Friday",
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Saturday",
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "Toney Berger Activity Center",
+    "alternate_name": "Remedy",
+    "description": "Due to ongoing, global constraints around testing supplies, and in accordance with CDC and Austin Public Health guidelines, all potential patients must first book a 24/7 Video Visit, where our providers will assess and diagnose. If further testing is recommended, patients will prioritized and directed to the new testing center with an appointment time, and provided further instructions for how to proceed.",
+    "transportation": "CAR",
+    "updated": "2020-04-01",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        
+        
+        "address": "3200 Jones Rd",
+        "city": "Austin",
+        "region": "NONE",
+        "state_province": "TX",
+        "postal_code": "78745",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        
+        
+        "number": " +1 844 736-3395",
+        "extension": "None",
+        "type": "Main line",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        
+        
+        "weekday": "Sunday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Monday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Tuesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Wednesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Thursday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Friday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Saturday",
+        "opens_at": "8:00 AM",
+        "closes_at": "8:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "Parkland Health & Hospital System",
+    "alternate_name": "Parkland Health & Hospital System",
+    "description": "Beginning at mid-day, Monday, March 16, Parkland Health & Hospital System will offer drive through COVID-19 testing by appointment only for current Parkland patients who meet the medically necessary criteria with a Parkland physician’s order. Parkland patients can contact the COVID-19 Patient Line at 214-590-8060.",
+    "transportation": "CAR",
+    "updated": "2020-04-01",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        "id": "7",
+        
+        "address": "5200 Harry Hines Blvd",
+        "city": "Dallas",
+        "region": "NONE",
+        "state_province": "TX",
+        "postal_code": "75235",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        "id": "7",
+        
+        "number": " +1 214-590-8060",
+        "extension": "None",
+        "type": "COVID-19 Hotline",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        
+        
+        "weekday": "Sunday",
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Monday",
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Tuesday",
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Wednesday",
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Thursday",
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Friday",
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Saturday",
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "Neighborhood Medical Center Clinic",
+    "alternate_name": "Neighborhood Medical Center Clinic",
+    "description": "As one of the first testing sites to open in Dallas, Neighborhood Medical Center Clinic is cited by the Dallas Health and Human services as providing drive through testing.",
+    "transportation": "CAR",
+    "updated": "2020-04-01",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        
+        
+        "address": "5917 Belt Line Road",
+        "city": "Dallas",
+        "region": "NONE",
+        "state_province": "TX",
+        "postal_code": "75248",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        
+        
+        "number": " +1 972-275-6910",
+        "extension": "None",
+        "type": "Main line",
+        "language": "EN",
+        "description": "Hotline"
+      }
+    ],
+    "regular_schedule": [
+      {
+        
+        
+        "weekday": "Sunday",
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Monday",
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Tuesday",
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Wednesday",
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Thursday",
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Friday",
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Saturday",
+        "opens_at": "12:00 AM",
+        "closes_at": "11:59:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "MD Family Clinic- Marsh",
+    "alternate_name": "MD Family Clinic- Marsh",
+    "description": "All local clinics will remain open to the public. Starting Monday, March 23 2020—select clinics will offer drive-thru testing for COVID-19. The decision to offer drive-thru testing protects the patients we will continue to serve at our clinics— children and older people with underlying medical conditions—and our employees during the Coronavirus (COVID-19) pandemic.",
+    "transportation": "CAR",
+    "updated": "2020-04-01",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        
+        
+        "address": "9991 Marsh Ln. #100",
+        "city": "Dallas",
+        "region": "NONE",
+        "state_province": "TX",
+        "postal_code": "75220",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        
+        
+        "number": "",
+        "extension": "None",
+        "type": "Main line",
+        "language": "EN",
+        "description": "Hotline"
+      }
+    ],
+    "regular_schedule": [
+      {
+        
+        
+        "weekday": "Sunday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Monday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Tuesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Wednesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Thursday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Friday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "MD Family Clinic Irving Heights",
+    "alternate_name": "MD Family Clinic Irving Heights",
+    "description": "All local clinics will remain open to the public. Starting Monday, March 23 2020—select clinics will offer drive-thru testing for COVID-19. The decision to offer drive-thru testing protects the patients we will continue to serve at our clinics— children and older people with underlying medical conditions—and our employees during the Coronavirus (COVID-19) pandemic.",
+    "transportation": "CAR",
+    "updated": "2020-04-01",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        
+        
+        "address": "1111 S Irving Heights Dr",
+        "city": "Irving",
+        "region": "NONE",
+        "state_province": "TX",
+        "postal_code": "75060",
+        "country": "US"
+      }
+    ],
+    "phones": [{
+        
+      
+      "number": "",
+      "extension": "None",
+      "type": "Main line",
+      "language": "EN",
+      "description": "Hotline"
+    }],
+    "regular_schedule": [
+      {
+        
+        
+        "weekday": "Sunday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Monday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Tuesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Wednesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Thursday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Friday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "MD Family Clinic- Bruton",
+    "alternate_name": "MD Family Clinic- Bruton",
+    "description": "All local clinics will remain open to the public. Starting Monday, March 23 2020—select clinics will offer drive-thru testing for COVID-19. The decision to offer drive-thru testing protects the patients we will continue to serve at our clinics— children and older people with underlying medical conditions—and our employees during the Coronavirus (COVID-19) pandemic.",
+    "transportation": "CAR",
+    "updated": "2020-04-01",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        
+        
+        "address": "9709 Bruton Rd",
+        "city": "Dallas",
+        "region": "NONE",
+        "state_province": "TX",
+        "postal_code": "75217",
+        "country": "US"
+      }
+    ],
+    "phones": [{
+        
+      
+      "number": "",
+      "extension": "None",
+      "type": "Main line",
+      "language": "EN",
+      "description": "Hotline"
+    }],
+    "regular_schedule": [
+      {
+        
+        
+        "weekday": "Sunday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Monday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Tuesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Wednesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Thursday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Friday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "MD Kids Pediatrics West Plano",
+    "alternate_name": "MD Kids Pediatrics West Plano",
+    "description": "All local clinics will remain open to the public. Starting Monday, March 23 2020—select clinics will offer drive-thru testing for COVID-19. The decision to offer drive-thru testing protects the patients we will continue to serve at our clinics— children and older people with underlying medical conditions—and our employees during the Coronavirus (COVID-19) pandemic.",
+    "transportation": "CAR",
+    "updated": "2020-04-01",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        
+        
+        "address": "7800 Preston Rd. #300",
+        "city": "Plano",
+        "region": "NONE",
+        "state_province": "TX",
+        "postal_code": "75024",
+        "country": "US"
+      }
+    ],
+    "phones": [{
+        
+      
+      "number": "",
+      "extension": "None",
+      "type": "Main line",
+      "language": "EN",
+      "description": "Hotline"
+    }],
+    "regular_schedule": [
+      {
+        
+        
+        "weekday": "Sunday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Monday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Tuesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Wednesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Thursday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Friday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "MD Kids Pediatrics Saner",
+    "alternate_name": "MD Kids Pediatrics Saner",
+    "description": "All local clinics will remain open to the public. Starting Monday, March 23 2020—select clinics will offer drive-thru testing for COVID-19. The decision to offer drive-thru testing protects the patients we will continue to serve at our clinics— children and older people with underlying medical conditions—and our employees during the Coronavirus (COVID-19) pandemic.",
+    "transportation": "CAR",
+    "updated": "2020-04-01",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        
+        
+        "address": "3201 W. Saner Ave.",
+        "city": "Dallas",
+        "region": "NONE",
+        "state_province": "TX",
+        "postal_code": "75233",
+        "country": "US"
+      }
+    ],
+    "phones": [{
+        
+      
+      "number": "",
+      "extension": "None",
+      "type": "Main line",
+      "language": "EN",
+      "description": "Hotline"
+    }],
+    "regular_schedule": [
+      {
+        
+        
+        "weekday": "Sunday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Monday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Tuesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Wednesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Thursday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Friday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "Clinicas Mi Doctor Seminary",
+    "alternate_name": "Clinicas Mi Doctor Seminary",
+    "description": "All local clinics will remain open to the public. Starting Monday, March 23 2020—select clinics will offer drive-thru testing for COVID-19. The decision to offer drive-thru testing protects the patients we will continue to serve at our clinics— children and older people with underlying medical conditions—and our employees during the Coronavirus (COVID-19) pandemic.",
+    "transportation": "CAR",
+    "updated": "2020-04-01",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        
+        
+        "address": "4200 South Fwy. #106",
+        "city": "Fort Worth",
+        "region": "NONE",
+        "state_province": "TX",
+        "postal_code": "76115",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        
+        
+        "number": " +1-888-776-5252",
+        "extension": "None",
+        "type": "Testing Appointment Line",
+        "language": "EN, ES",
+        "description": "Testing Appointment Line"
+      }
+    ],
+    "regular_schedule": [
+      {
+        
+        
+        "weekday": "Sunday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Monday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Tuesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Wednesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Thursday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Friday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "Clinicas Mi Doctor Lewisville",
+    "alternate_name": "Clinicas Mi Doctor Lewisville",
+    "description": "All local clinics will remain open to the public. Starting Monday, March 23 2020—select clinics will offer drive-thru testing for COVID-19. The decision to offer drive-thru testing protects the patients we will continue to serve at our clinics— children and older people with underlying medical conditions—and our employees during the Coronavirus (COVID-19) pandemic.",
+    "transportation": "CAR",
+    "updated": "2020-04-01",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        
+        
+        "address": "701 S Stemmons Fwy",
+        "city": "Lewisville",
+        "region": "NONE",
+        "state_province": "TX",
+        "postal_code": "75067",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        
+        
+        "number": " +1-888-776-5252",
+        "extension": "None",
+        "type": "Testing Appointment Line",
+        "language": "EN, ES",
+        "description": "Testing Appointment Line"
+      }
+    ],
+    "regular_schedule": [
+      {
+        
+        
+        "weekday": "Sunday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Monday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Tuesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Wednesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Thursday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Friday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "MD Kids Pediatrics Harrisburg",
+    "alternate_name": "MD Kids Pediatrics Harrisburg",
+    "description": "All local clinics will remain open to the public. Starting Monday, March 23 2020—select clinics will offer drive-thru testing for COVID-19. The decision to offer drive-thru testing protects the patients we will continue to serve at our clinics— children and older people with underlying medical conditions—and our employees during the Coronavirus (COVID-19) pandemic.",
+    "transportation": "CAR",
+    "updated": "2020-04-01",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        
+        
+        "address": "6812 Harrisburg Blvd.",
+        "city": "Houston",
+        "region": "NONE",
+        "state_province": "TX",
+        "postal_code": "77011",
+        "country": "US"
+      }
+    ],
+    "phones": [],
+    "regular_schedule": [
+      {
+        
+        
+        "weekday": "Sunday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Monday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Tuesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Wednesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Thursday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Friday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "Clinicas Mi Doctor",
+    "alternate_name": "Clinicas Mi Doctor",
+    "description": "All local clinics will remain open to the public. Starting Monday, March 23 2020—select clinics will offer drive-thru testing for COVID-19. The decision to offer drive-thru testing protects the patients we will continue to serve at our clinics— children and older people with underlying medical conditions—and our employees during the Coronavirus (COVID-19) pandemic.",
+    "transportation": "CAR",
+    "updated": "2020-04-01",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        
+        
+        "address": "10058 Long Point Rd",
+        "city": "Houston",
+        "region": "NONE",
+        "state_province": "TX",
+        "postal_code": "77055",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        
+        
+        "number": " +1-888-776-5252",
+        "extension": "None",
+        "type": "Testing Appointment Line",
+        "language": "EN, ES",
+        "description": "Testing Appointment Line"
+      }
+    ],
+    "regular_schedule": [
+      {
+        
+        
+        "weekday": "Sunday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Monday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Tuesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Wednesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Thursday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Friday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "El Paso Airport",
+    "alternate_name": "Cargo Force - El Paso Airport",
+    "description": "Cited by Texas Healthcare and Human Services website",
+    "transportation": "CAR",
+    "updated": "2020-04-01",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        
+        
+        "address": "301 George Perry Blvd",
+        "city": "El Paso",
+        "region": "NONE",
+        "state_province": "TX",
+        "postal_code": "79925",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        
+        
+        "number": "None",
+        "extension": "None",
+        "type": "None",
+        "language": "None",
+        "description": "Testing Appointment Line"
+      }
+    ],
+    "regular_schedule": [
+      {
+        
+        
+        "weekday": "Sunday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Monday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Tuesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Wednesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Thursday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Friday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "My Family Doctor Clinic",
+    "alternate_name": "Medicorp My Family Doctor",
+    "description": "Currently, COVID-19 tests are in limited supply. We have ordered and will continue to order as many test kits as possible. However, because of the shortages, we are currently only able to test patients who are at risk for the disease. Patients who visit our drive-thru testing center will be asked to fill out a short screening questionnaire so we can ensure that only those who are at risk for the disease receive the test.",
+    "transportation": "CAR",
+    "updated": "2020-04-01",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        
+        
+        "address": "6430 Hillcroft Ave",
+        "city": "Houston",
+        "region": "NONE",
+        "state_province": "TX",
+        "postal_code": "77081",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        
+        
+        "number": " +1 (832) 709-1515",
+        "extension": "None",
+        "type": "Main line",
+        "language": "ES",
+        "description": "None"
+      }
+    ],
+    "regular_schedule": [
+      {
+        
+        
+        "weekday": "Sunday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Monday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Tuesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Wednesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Thursday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Friday",
+        "opens_at": "8:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "Shannon Medical Center",
+    "alternate_name": "Shannon Medical Center",
+    "description": "This site enables patients to drive up and be evaluated in their vehicle by a medical provider. If the provider determines the patient may have COVID-19, according to the criteria set by the CDC, the patient will then be tested on site. Personnel will collect the necessary samples to send off for the test. The patient will then receive instructions regarding self-quarantine and next steps they must take until test results are returned.",
+    "transportation": "CAR",
+    "updated": "2020-04-27",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        
+        
+        "address": "120 E. Harris Ave.",
+        "city": "San Angelo",
+        "region": "None",
+        "state_province": "TX",
+        "postal_code": "76903",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        
+        
+        "number": " +1 844-674-2666",
+        "extension": "None",
+        "type": "COVID-19 Hotline",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        
+        
+        "weekday": "Sunday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Monday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Tuesday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Wednesday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Thursday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Friday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Saturday",
+        "opens_at": "9:00 AM",
+        "closes_at": "5:00 PM"
+      }
+    ]
+  },
+  {
+    "name": "Advent Health Central Texas",
+    "alternate_name": "Advent Health Central Texas",
+    "description": "Drive-Thru Testing is now available for the general public with symptoms or known exposure. Appointments are required.",
+    "transportation": "CAR",
+    "updated": "2020-04-27",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        
+        "address": "2201 S Clear Creek",
+        "city": "Killeen",
+        "region": "none",
+        "state_province": "TX",
+        "postal_code": "76549",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        
+        
+        "number": " +1 254-519-8500",
+        "extension": "None",
+        "type": "Testing Appointment Line",
+        "language": "EN, ES",
+        "description": "Hotline"
+      }
+    ],
+    "regular_schedule": [
+      {
+        
+        
+        "weekday": "Sunday",
+        "opens_at": "7:00 AM",
+        "closes_at": "2:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Monday",
+        "opens_at": "7:00 AM",
+        "closes_at": "2:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Tuesday",
+        "opens_at": "7:00 AM",
+        "closes_at": "2:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Wednesday",
+        "opens_at": "7:00 AM",
+        "closes_at": "2:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Thursday",
+        "opens_at": "7:00 AM",
+        "closes_at": "2:00 PM"
+      }
+    ]
+  }
+]

@@ -1,0 +1,756 @@
+[
+  {
+    
+    
+    "name": "Walgreens",
+    "alternate_name": "Walgreens",
+    "description": "Walgreens is asking those interested to go to their website and complete an online health assessment to determine if they meet CDC criteria to get the test. If approved, they will get an appointment to go to one of the designated sites.",
+    "transportation": "N/A",
+    "updated": "2020-04-21",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        
+        
+        "address": "695 W. Boughton Road",
+        "city": "Bolingbrook",
+        "region": "NONE",
+        "state_province": "IL",
+        "postal_code": "60440",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        
+        
+        "number": " +1 (630) 771-1494",
+        "extension": "None",
+        "type": "Store ",
+        "language": "EN",
+        "description": "description"
+      }
+    ],
+    "regular_schedule": []
+  },
+  {
+    
+    
+    "name": "Walgreens",
+    "alternate_name": "Walgreens",
+    "description": "Walgreens is asking those interested to go to their website and complete an online health assessment to determine if they meet CDC criteria to get the test. If approved, they will get an appointment to go to one of the designated sites.",
+    "transportation": "N/A",
+    "updated": "2020-04-21",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        
+        
+        "address": "1606 N. Mobile Ave",
+        "city": "Chicago",
+        "region": "NONE",
+        "state_province": "IL",
+        "postal_code": "60639",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        
+        
+        "number": " +1 (773) 836-9497",
+        "extension": "None",
+        "type": "Store ",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": []
+  },
+  {
+    
+    
+    "name": "Bucktown",
+    "alternate_name": "Bucktown Urgent Care",
+    "description": "Someone can come into any of our clinics. They don't have to call ahead for an appointment and they will come up to the door,\" Dr. Wollin said. \"If a temperature is over 100 degrees or they answer yes to any symptoms, then they have to go back out to their car and get the rest of the examination done out there.\"",
+    "transportation": "N/A",
+    "updated": "2020-04-21",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        
+        
+        "address": "1702 N. Milwaukee Ave.",
+        "city": "Chicago",
+        "region": "None",
+        "state_province": "IL",
+        "postal_code": "60647",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        
+        
+        "number": " +1 (773) 770-4056",
+        "extension": "None",
+        "type": "Clinic Line",
+        "language": "EN",
+        "description": "Primary number pulled from Google Maps listing."
+      }
+    ],
+    "regular_schedule": [
+      {
+        
+        
+        "weekday": "Sunday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Monday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Tuesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Wednesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Thursday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Friday",
+        "opens_at": "8:00 AM",
+        "closes_at": "2:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Saturday",
+        "opens_at": "8:00 AM",
+        "closes_at": "2:00 PM"
+      }
+    ]
+  },
+  {
+    
+    
+    "name": "Edgewater",
+    "alternate_name": "Edgewater Urgent Care",
+    "description": "Someone can come into any of our clinics. They don't have to call ahead for an appointment and they will come up to the door,\" Dr. Wollin said. \"If a temperature is over 100 degrees or they answer yes to any symptoms, then they have to go back out to their car and get the rest of the examination done out there.\"",
+    "transportation": "N/A",
+    "updated": "2020-04-22",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        
+        
+        "address": "6140 N. Broadway",
+        "city": "Chicago",
+        "region": "none",
+        "state_province": "IL",
+        "postal_code": "60660",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        
+        
+        "number": " +1 (773) 435-9028",
+        "extension": "None",
+        "type": "N/A",
+        "language": "EN",
+        "description": "Primary clinic number pulled from website"
+      }
+    ],
+    "regular_schedule": [
+      {
+        
+        
+        "weekday": "Sunday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Monday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Tuesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Wednesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Thursday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Friday",
+        "opens_at": "8:00 AM",
+        "closes_at": "2:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Saturday",
+        "opens_at": "8:00 AM",
+        "closes_at": "2:00 PM"
+      }
+    ]
+  },
+  {
+    
+    
+    "name": "Jefferson Park",
+    "alternate_name": "Jefferson Park Urgent Care",
+    "description": "Someone can come into any of our clinics. They don't have to call ahead for an appointment and they will come up to the door,\" Dr. Wollin said. \"If a temperature is over 100 degrees or they answer yes to any symptoms, then they have to go back out to their car and get the rest of the examination done out there.\"",
+    "transportation": "N/A",
+    "updated": "2020-04-22",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        
+        
+        "address": "5228 Northwest Hwy",
+        "city": "Chicago",
+        "region": "none",
+        "state_province": "IL",
+        "postal_code": "60630",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        
+        
+        "number": " +1 (773) 770-4707",
+        "extension": "None",
+        "type": "Clinic Line",
+        "language": "EN",
+        "description": "Primary clinic number pulled from website"
+      }
+    ],
+    "regular_schedule": [
+      {
+        
+        
+        "weekday": "Sunday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Monday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Tuesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Wednesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Thursday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Friday",
+        "opens_at": "8:00 AM",
+        "closes_at": "2:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Saturday",
+        "opens_at": "8:00 AM",
+        "closes_at": "2:00 PM"
+      }
+    ]
+  },
+  {
+    
+    
+    "name": "Lincoln & Peterson",
+    "alternate_name": "Walk In Clinic Chicago",
+    "description": "Someone can come into any of our clinics. They don't have to call ahead for an appointment and they will come up to the door,\" Dr. Wollin said. \"If a temperature is over 100 degrees or they answer yes to any symptoms, then they have to go back out to their car and get the rest of the examination done out there.\"",
+    "transportation": "N/A",
+    "updated": "2020-04-22",
+    "featured": "TRUE",
+    "physical_address": [
+      {
+        
+        
+        "address": "5961 North Lincoln Avenue",
+        "city": "Chicago",
+        "region": "none",
+        "state_province": "IL",
+        "postal_code": "60659",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        
+        
+        "number": " +1 (312) 702-3923",
+        "extension": "None",
+        "type": "N/A",
+        "language": "EN",
+        "description": "Primary clinic number pulled from website"
+      }
+    ],
+    "regular_schedule": [
+      {
+        
+        
+        "weekday": "Sunday",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:30:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Monday",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:30:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Tuesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:30:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Wednesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:30:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Thursday",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:30:00 PM"
+      }
+    ]
+  },
+  {
+    
+    
+    "name": "Lincoln Park",
+    "alternate_name": "Urgent Care in Lincoln Park",
+    "description": "Someone can come into any of our clinics. They don't have to call ahead for an appointment and they will come up to the door,\" Dr. Wollin said. \"If a temperature is over 100 degrees or they answer yes to any symptoms, then they have to go back out to their car and get the rest of the examination done out there.\"",
+    "transportation": "N/A",
+    "updated": "2020-04-22",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        
+        
+        "address": "933 West Diversey Parkway",
+        "city": "Chicago",
+        "region": "none",
+        "state_province": "IL",
+        "postal_code": "60614",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        
+        
+        "number": " +1 (312) 445-8805",
+        "extension": "None",
+        "type": "Clinic Line",
+        "language": "EN",
+        "description": "Primary clinic number pulled from website"
+      }
+    ],
+    "regular_schedule": [
+      {
+        
+        
+        "weekday": "Sunday",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:30:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Monday",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:30:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Tuesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:30:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Wednesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:30:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Thursday",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:30:00 PM"
+      }
+    ]
+  },
+  {
+    
+    
+    "name": "North Center",
+    "alternate_name": "North Center",
+    "description": "Someone can come into any of our clinics. They don't have to call ahead for an appointment and they will come up to the door,\" Dr. Wollin said. \"If a temperature is over 100 degrees or they answer yes to any symptoms, then they have to go back out to their car and get the rest of the examination done out there.\"",
+    "transportation": "N/A",
+    "updated": "2020-04-22",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        
+        
+        "address": "3909 N. Western Ave.",
+        "city": "Chicago",
+        "region": "none",
+        "state_province": "IL",
+        "postal_code": "60618",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        
+        
+        "number": " +1 (773) 739-9200",
+        "extension": "None",
+        "type": "N/A",
+        "language": "EN",
+        "description": "Primary clinic number pulled from website"
+      }
+    ],
+    "regular_schedule": [
+      {
+        
+        
+        "weekday": "Sunday",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:30:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Monday",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:30:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Tuesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:30:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Wednesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:30:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Thursday",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:30:00 PM"
+      }
+    ]
+  },
+  {
+    
+    
+    "name": "Old Town",
+    "alternate_name": "Old Town",
+    "description": "Someone can come into any of our clinics. They don't have to call ahead for an appointment and they will come up to the door,\" Dr. Wollin said. \"If a temperature is over 100 degrees or they answer yes to any symptoms, then they have to go back out to their car and get the rest of the examination done out there.\"",
+    "transportation": "N/A",
+    "updated": "2020-04-23",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        
+        
+        "address": "121 W. North Avenue",
+        "city": "Chicago",
+        "region": "none",
+        "state_province": "IL",
+        "postal_code": "60610",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        
+        
+        "number": " +1 (312) 643-5606",
+        "extension": "None",
+        "type": "Clinic Line",
+        "language": "EN",
+        "description": "Primary clinic number pulled from website"
+      }
+    ],
+    "regular_schedule": [
+      {
+        
+        
+        "weekday": "Sunday",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:30:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Monday",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:30:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Tuesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:30:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Wednesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:30:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Thursday",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:30:00 PM"
+      }
+    ]
+  },
+  {
+    
+    
+    "name": "Six Corners",
+    "alternate_name": "Urgent Care Six Corners",
+    "description": "Someone can come into any of our clinics. They don't have to call ahead for an appointment and they will come up to the door,\" Dr. Wollin said. \"If a temperature is over 100 degrees or they answer yes to any symptoms, then they have to go back out to their car and get the rest of the examination done out there.\"",
+    "transportation": "N/A",
+    "updated": "2020-04-27",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        
+        
+        "address": "4211 North Cicero Avenue, Six Corners Medical Center",
+        "city": "Chicago",
+        "region": "none",
+        "state_province": "IL",
+        "postal_code": "60641",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        
+        
+        "number": " +1 (773) 794-1000",
+        "extension": "None",
+        "type": "N/A",
+        "language": "EN",
+        "description": "Primary clinic number pulled from website"
+      }
+    ],
+    "regular_schedule": [
+      {
+        
+        
+        "weekday": "Sunday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Monday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Tuesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Wednesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Thursday",
+        "opens_at": "8:00 AM",
+        "closes_at": "6:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Friday",
+        "opens_at": "8:00 AM",
+        "closes_at": "2:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Saturday",
+        "opens_at": "8:00 AM",
+        "closes_at": "2:00 PM"
+      }
+    ]
+  },
+  {
+    
+    
+    "name": "West Loop",
+    "alternate_name": "Urgent Care West Loop",
+    "description": "Someone can come into any of our clinics. They don't have to call ahead for an appointment and they will come up to the door,\" Dr. Wollin said. \"If a temperature is over 100 degrees or they answer yes to any symptoms, then they have to go back out to their car and get the rest of the examination done out there.\"",
+    "transportation": "N/A",
+    "updated": "2020-04-27",
+    "featured": "FALSE",
+    "physical_address": [
+      {
+        
+        
+        "address": "600 W. Adams St.",
+        "city": "Chicago",
+        "region": "none",
+        "state_province": "IL",
+        "postal_code": "60661",
+        "country": "US"
+      }
+    ],
+    "phones": [
+      {
+        
+        
+        "number": " +1 (312) 506-0900",
+        "extension": "None",
+        "type": "Clinic Line",
+        "language": "EN",
+        "description": "Primary clinic number pulled from website"
+      }
+    ],
+    "regular_schedule": [
+      {
+        
+        
+        "weekday": "Sunday",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:30:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Monday",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:30:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Tuesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:30:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Wednesday",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:30:00 PM"
+      },
+      {
+        
+        
+        "weekday": "Thursday",
+        "opens_at": "8:00 AM",
+        "closes_at": "4:30:00 PM"
+      }
+    ]
+  }
+]
